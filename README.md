@@ -62,18 +62,6 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### Applied Intelligence
 
-- <a name="EmReCo"></a> **(EmReCo)** Jingbin Wang, Jing Lei, Shounan Sun, Kun Guo. "**Embeddings based on relation-specific constraints for open world knowledge graph completion**".  [paper](https://link.springer.com/article/10.1007/s10489-022-04247-z)
-
-- <a name="GLANet"></a> **(GLANet)** Jingbin Wang, Xinyu Lin, Hao Huang, Xifan Ke, Renfei Wu, Changkai You, Kun Guo. "**GLANet: temporal knowledge graph completion based on global and local information-aware network**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-023-04481-z)
-
-- <a name="RMLH"></a> **(RMLH)** Yi Xia, Junyong Luo, Mingjing Lan, Gang Zhou, Zhibo Li, Shuo Liu. "**Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-04147-2)
-
-- <a name="RotatPRH"></a> **(RotatPRH)** Thanh Le, Ngoc Huynh, Bac Le. "**Knowledge graph embedding by projection and rotation on hyperplanes for link prediction**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03983-6)
-
-- <a name="TBDRI"></a> **(TBDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03601-5)
-
-- <a name="TNTSimplE"></a> **(TNTSimplE)** Peng He, Gang Zhou, Mengli Zhang, Jianghong Wei, Jing Chen. "**Improving temporal knowledge graph embedding using tensor factorization**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-021-03149-w)
-
 - <a name="ABNS"></a> **(ABNS)** Si Cen, Xizhao Wang, Xiaoying Zou, Chao Liu, Guoquan Dai. "**New attention strategy for negative sampling in knowledge graph embedding**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-023-04901-0)
 
 - <a name="EL-Trans"></a> **(EL-Trans)** Xuhua Yang, Gang-Feng Ma, Xin Jin, Hai-Xia Long, Jie Xiao, Lei Ye. "**Knowledge graph embedding and completion based on entity community and local importance**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-023-04698-y)
