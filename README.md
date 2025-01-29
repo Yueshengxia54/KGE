@@ -120,20 +120,6 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### Expert Systems With Applications
 
-- <a name="ConvRot"></a> **(ConvRot)** 	Thanh Le, Nam Le, Bac Le. "**Knowledge graph embedding by relational rotation and complex convolution for link prediction**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021406?via%3Dihub) [code](https://github.com/lnthanhhcmus/ConvRot)
-
-- <a name="D-AEN"></a> **(D-AEN)** Haichuan Fang, Youwei Wang, Zhen Tian, Yangdong Ye. "**Learning knowledge graph embedding with a dual-attention embedding network**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422018243?via%3Dihub) [code](https://github.com/hcfun/D-AEN)
-
-- <a name="DRR-GAT"></a> **(DRR-GAT)** Xin Zhang, Chunxia Zhang, Jingtao Guo, Cheng Peng, Zhendong Niu, Xindong Wu. "**Graph attention network with dynamic representation of relations for knowledge graph completion**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423001173?via%3Dihub)
-
-- <a name="EARR"></a> **(EARR)** Jin Li, Jinpeng Xiang, Jianhua Cheng. "**EARR: Using rules to enhance the embedding of knowledge graph**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423013337?via%3Dihub)
-
-- <a name="GS-InGAT"></a> **(GS-InGAT)** Hong Yin, Jiang Zhong, Chen Wang, Rongzhen Li, Xue Li. "**GS-InGAT: An interaction graph attention network with global semantic for knowledge graph completion**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423008825?via%3Dihub)
-
-- <a name="MRAN"></a> **(MRAN)** Zengcan Xue, Zhaoli Zhang, Hai Liu, Shuoqiu Yang, Shuyun Han. "**Learning knowledge graph embedding with multi-granularity relational augmentation network**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014550?via%3Dihub) [code](https://github.com/ZengcanXUE/MRAN)
-
-- <a name="TPRG"></a> **(TPRG)** Luyi Bai, Mingzhuo Chen, Lin Zhu, Xiangxi Meng. "**Multi-hop temporal knowledge graph reasoning with temporal path rules guidance**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056?via%3Dihub) [code](https://github.com/DMKE-Lab/TPRG)
-
 - <a name="ConvRot"></a> **(ConvRot)** 	Thanh Le, Nam Le, Bac Le. "**Knowledge graph embedding by relational rotation and complex convolution for link prediction**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021406?via%3Dihub) [code](https://github.com/lnthanhhcmus/ConvRot) :star::star::star:
 
 - <a name="D-AEN"></a> **(D-AEN)** Haichuan Fang, Youwei Wang, Zhen Tian, Yangdong Ye. "**Learning knowledge graph embedding with a dual-attention embedding network**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422018243?via%3Dihub) [code](https://github.com/hcfun/D-AEN) :star:
