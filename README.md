@@ -66,6 +66,75 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="IncDE"></a> **(IncDE)** Jiajun Liu, Wenjun Ke, Peng Wang, Ziyu Shang, Jinhua Gao, Guozheng Li, Ke Ji, Yanhe Liu. "**Towards Continual Knowledge Graph Embedding via Incremental Distillation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)
 
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+
+##### ACL
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+
+##### CIKM
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+
+##### DASFAA
+
+- <a name="AttFGCN"></a> **(AttFGCN)** Mei Yu, Fan Gao, Mankun Zhao, Tianyi Xu, Jiujiang Guo, Wenbin Zhang, Dejun Hou, Ruiguo Yu. "**AttFGCN: A GCN-Based Method Using Attention Flow for Knowledge Graph Completion**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_27)
+
+- <a name="NESI"></a> **(NESI)** Yushun Xie, Haiyan Wang, Le Wang, Lei Luo, Jianxin Li, Zhaoquan Gu. "**Reinforced Negative Sampling for Knowledge Graph Embedding**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_23)
+
+- <a name="TRIP"></a> **(TRIP)** Fenxuan Lin, Junjie Yao. "**Inductive Type-aware Reasoning over Knowledge Graphs**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_19)
+
+##### ECAI
+
+- <a name="DECAL"></a> **(DECAL)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Degenerate Clifford
+Algebras**". **ECAI 2024**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240627)
+
+- <a name="FHRE"></a> **(FHRE)** Qiuyu Liang, Weihua Wang, Feilong Bao, Guanglai Gao. "**Fully Hyperbolic Rotation for Knowledge Graph Embedding**". **ECAI 2024**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240668)
+
 ### 2023
 
 #### Journal
