@@ -144,6 +144,7 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub) :star:
 
+- <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". **IEEE Robotics and Automation Letters 2023**. [paper](https://ieeexplore.ieee.org/document/10103578)
 
 ##### IEEE Transactions on Big Data
 
@@ -155,7 +156,16 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### Information Fusion
 
-- <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". **Information Fusion 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub)
+- <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". **Information Fusion 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub) :fire:
+
+- <a name="VRNet"></a> **(VRNet)** Wenbo Dong, Shiliang Sun, Jing Zhao, Nan Zhang. "**Knowledge graph relation reasoning with variational reinforcement network**". **Information Fusion 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002166?via%3Dihub)
+
+- <a name="SPR_LSTM"></a> **(SPR_LSTM)** Yilin Wang, Zhen Huang, Minghao Hu, Dongsheng Li, Xicheng Lu, Wei Luo, Dong Yang. "**Structure Enhanced Path Reasoning for Knowledge Graph Completion**". **International Journal of Intelligent Systems 2023**. [paper](https://www.hindawi.com/journals/ijis/2023/3022539/)
+
+- <a name="ConvHiA"></a> **(ConvHiA)** Dengao Li, Shuyi Miao, Bao-feng Zhao, Yu Zhou, Ding Feng, Jumin Zhao, Xupeng Niu. "**ConvHiA: convolutional network with hierarchical attention for knowledge graph multi-hop reasoning**". **International Journal of Machine Learning and Cybernetics 2023**. [paper](https://link.springer.com/article/10.1007/s13042-022-01764-8)
+
+- <a name="RASC"></a> **(RASC)** Xiaonan Li, Bo Ning, Guanyu Li, Wang Jie. "**Relation‑attention semantic‑correlative knowledge graph embedding for inductive link prediction**". **International Journal of Machine Learning and Cybernetics 2023**. [paper](https://link.springer.com/article/10.1007/s13042-023-01865-y)
+
 
 ##### Information Processing and Management
 
