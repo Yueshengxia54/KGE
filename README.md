@@ -100,25 +100,26 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### CIKM
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="Continual-FKGC"></a> **(Continual-FKGC)** Zhuofeng Li, Haoxiang Zhang, Qiannan Zhang, Ziyi Kou, Shichao Pei. "**Learning from Novel Knowledge: Continual Few-shot Knowledge Graph Completion**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679734)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="CSD"></a> **(CSD)** Yichen Liu, Jiawei Chen, Defang Chen, Zhehui Zhou, Yan Feng, Can Wang. "**Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679683)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="DynDE"></a> **(DynDE)** Bin Zhang, Jiayin Li, Yuanfei Dai. "**Distilling Knowledge Based on Curriculum Learning for Temporal Knowledge Graph Embeddings**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679896)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="EIPR"></a> **(EIPR)** Chong Mu, Lizong Zhang, Jinchuan Zhang, Qian Huang, Zhiguo Wang. "**Inductive Knowledge Graph Embedding via Exploring Interaction Patterns of Relations**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679667)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="FMult"></a> **(FMult)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Function Spaces**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679819)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="HIST"></a> **(HIST)** Lijie Li, Hui Wang, Jiahang Li, Xiaodi Xu, Ye Wang, Tao Ren. "**Integrating Structure and Text for Enhancing Hyper-relational Knowledge Graph Representation via Structure Soft Prompt Tuning**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679698)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="LoGRe"></a> **(LoGRe)** Saiping Guan, Jiyao Wei, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng. "**Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679845)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="STORE"></a> **(STORE)** Tianli Zhang, Tongya Zheng, Zhenbang Xiao, Zulong Chen, Liangyue Li, Zunlei Feng, Dongxiang Zhang, Mingli Song. "**Language Models-enhanced Semantic Topology Representation Learning for Temporal Knowledge Graph Extrapolation**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679602)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="TC-rules"></a> **(TC-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Bi-directional Learning of Logical Rules with Type Constraints for Knowledge Graph Completion**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679695)
 
-- <a name=""></a> **()** . "****". **CIKM 2024**. [paper]()
+- <a name="UAG"></a> **(UAG)** Bo Ni. "**Reliable Knowledge Graph Reasoning
+with Uncertainty Quantification**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3680266)
 
 ##### DASFAA
 
