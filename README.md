@@ -86,17 +86,17 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### ACL
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="GradPath"></a> **(GradPath)** Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence. "**Generating and Evaluating Plausible Explanations for Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.654/)
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="MR-MKG"></a> **(MR-MKG)** Junlin Lee, Yequan Wang, Jing Li, Min Zhang. "**Multimodal Reasoning with Multimodal Knowledge Graph**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.579/)
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="RLF-KG"></a> **(RLF-KG)** Jiaxin Bai, Yicheng Wang, Tianshi Zheng, Yue Guo, Xin Liu, Yangqiu Song. "**Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.72/)
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="TCompoundE"></a> **(TCompoundE)** Rui Ying, Mengting Hu, Jianfeng Wu, Yalan Xie, Xiaoyi Liu, Zhunheng Wang, Ming Jiang, Hang Gao, Linlin Zhang, Renhong Cheng. "**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.596/)
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="TPAR"></a> **(TPAR)** Kai Chen, Ye Wang, Yitong Li, Aiping Li, Han Yu, Xin Song. "**A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.8/)
 
-- <a name=""></a> **()** . "****". **ACL 2024**. [paper]()
+- <a name="DynaSemble"></a> **(DynaSemble)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-short.20/)
 
 ##### CIKM
 
