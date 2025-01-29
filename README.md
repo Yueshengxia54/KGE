@@ -56,6 +56,16 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="KGMixup"></a> **(KGMixup)** Tianyang Xie, Yong Ge. "**Enhance Knowledge Graph Embedding by Mixup**". [paper](https://ieeexplore.ieee.org/document/10173561)
 
+#### Conference
+
+##### AAAI
+
+- <a name="CompilE"></a> **(CompilE)** Wanyun Cui, Linqiu Zhang. "**Modeling Knowledge Graphs with Composite Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28675)
+
+- <a name="HGE"></a> **(HGE)** Jiaxin Pan, Mojtaba Nayyeri, Yinan Li, Steffen Staab. "**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
+
+- <a name="IncDE"></a> **(IncDE)** Jiajun Liu, Wenjun Ke, Peng Wang, Ziyu Shang, Jinhua Gao, Guozheng Li, Ke Ji, Yanhe Liu. "**Towards Continual Knowledge Graph Embedding via Incremental Distillation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)
+
 ### 2023
 
 #### Journal
