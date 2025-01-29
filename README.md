@@ -138,10 +138,12 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="TPRG"></a> **(TPRG)** Luyi Bai, Mingzhuo Chen, Lin Zhu, Xiangxi Meng. "**Multi-hop temporal knowledge graph reasoning with temporal path rules guidance**". **Expert Systems With Applications 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056?via%3Dihub) [code](https://github.com/DMKE-Lab/TPRG) :star:
 
-
 ##### Future Generation Computer Systems
 
-- <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub)
+- <a name="SubEE"></a> **(SubEE)** Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. "**Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002108?via%3Dihub)
+
+- <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub) :star:
+
 
 ##### IEEE Transactions on Big Data
 
