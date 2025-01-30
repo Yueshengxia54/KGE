@@ -51,6 +51,52 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="TSA-Net"></a> **(TSA-Net)** Ruzhong Xie, Ke Ruan, Bosong Huang, Weihao Yu, Jing Xiao, Jin Huang. "**TSA-Net: a temporal knowledge graph completion method with temporal-structural adaptation**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05734-1)
 
+- <a name="DOGE"></a> **(DOGE)** Vid Kocijan, Myeongjun Erik Jang, Thomas Lukasiewicz. "**Pre-training and diagnosing knowledge base completion models**".  **`Artificial Intelligence 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370224000171?via%3Dihub)
+
+- <a name="OWKRL"></a> **(OWKRL)** Wenbo Zheng, Lan Yan, Fei-Yue Wang. "**Knowledge is power: Open-world knowledge representation learning for knowledge-based visual reasoning**". **`Artificial Intelligence 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370224000833?via%3Dihub)
+
+- <a name="TiPNN"></a> **(TiPNN)** Hao Dong, Pengyang Wang, Meng Xiao, Zhiyuan Ning, Pengfei Wang, Yuanchun Zhou. "**Temporal inductive path neural network for temporal knowledge graph reasoning**". **`Artificial Intelligence 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370224000213?via%3Dihub)
+
+- <a name="MA-TPath"></a> **(MA-TPath)** Luyi Bai, Mingzhuo Chen, Qianwen Xiao. "**Multi-hop temporal knowledge graph reasoning with multi-agent reinforcement learning**". **`Applied Soft Computing 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624005015?via%3Dihub)
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
 - <a name=""></a> **()** . "****". [paper]() 
 
 ##### Engineering Applications of Artificial Intelligence
