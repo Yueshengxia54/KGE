@@ -24,7 +24,7 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 - StellerGraph [code](https://github.com/stellargraph/stellargraph)
 - TorchKGE [code](https://github.com/torchkge-team/torchkge)
 
-## Methodologies
+## Methods
 
 ## Papers
 
