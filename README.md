@@ -125,25 +125,25 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="CoPE"></a> **(CoPE)** Adnan Zeb, Summaya Saif, Junde Chen, James Jianqiao Yu, Qingshan Jiang, Defu Zhang. "**CoPE: Composition-based Poincaré embeddings for link prediction in knowledge graphs**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001105?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="CRmod"></a> **(CRmod)** Lin Zhu, Die Chai, Luyi Bai. "**CRmod: Context-Aware Rule-Guided reasoning over temporal knowledge graph**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524002561?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="DT-WE"></a> **(DT-WE)** Xiaobei Xu, Wei Jia, Li Yan, Xiaoping Lu, Chao Wang, Zong Min Ma. "**Spatiotemporal knowledge graph completion via diachronic and transregional word embedding**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524003906?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="F-TKGE"></a> **(F-TKGE)** Yuanfei Dai, Wenzhong Guo, Carsten Eickhoff. "**Wasserstein adversarial learning based temporal knowledge graph embedding**".  **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552301647X?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="Joint-MTComplEx"></a> **(Joint-MTComplEx)** Fu Zhang, Hongzhi Chen, Yuzhe Shi, Jingwei Cheng, Jinghao Lin. "**Joint framework for tensor decomposition-based temporal knowledge graph completion**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552301438X?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="KR-POFSA"></a> **(KR-POFSA)** Enliang Yan, Tao Zhang, Jianping Yu, Tianyong Hao, Qiliang Chen. "**A preliminary study on few-shot knowledge reasoning mechanism based on three-way partial order structure**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524002792?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MGIF"></a> **(MGIF)** Duantengchuan Li, Fobo Shi, Xiaoguang Wang, Chao Zheng, Yuefeng Cai, Bing Li. "**Multi-perspective knowledge graph completion with global and interaction features**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524003517?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]() 
+- <a name="RuMER-RL"></a> **(RuMER-RL)** Zefan Zeng, Qing Cheng, Yuehang Si, Zhong Liu. "**RuMER-RL: A hybrid framework for sparse knowledge graph explainable reasoning**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524010582?via%3Dihub) 
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="SANe"></a> **(SANe)** Yancong Li, Xiaoming Zhang, Bo Zhang, Feiran Huang, Xiaopeng Chen, Ming Lu, Shuai Ma. "**SANe: Space adaptation network for temporal knowledge graph completion**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524003438?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="SimRE"></a> **(SimRE)** Dong Zhang, Zhe Rong, Chengyuan Xue, Guanyu Li. "**SimRE: Simple contrastive learning with soft logical rule for knowledge graph embedding**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523016559?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="THOR"></a> **(THOR)** Yeon-Chang Lee, JaeHyun Lee, Dongwon Lee, Sang-Wook Kim. "**Learning to compensate for lack of information: Extracting latent knowledge for effective temporal knowledge graph completion**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014421?via%3Dihub)
 
 - <a name=""></a> **()** . "****". [paper]()
 
@@ -202,7 +202,7 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 ##### Information Sciences
 
-- <a name="WTKGE"></a> **(WTKGE)** Yuanfei Dai, Wenzhong Guo, Carsten Eickhoff. "**Wasserstein adversarial learning based temporal knowledge graph embedding**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552301647X?via%3Dihub)
+- <a name="WTKGE"></a> **(WTKGE)** 
 
 ##### Neural Processing Letters
 
