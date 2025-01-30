@@ -95,6 +95,34 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="TComplEx"></a> **(TComplEx)** Jinfa Yang, Xianghua Ying, Yongjie Shi, Bowei Xing. "**Tensor decompositions for temporal knowledge graph completion with time perspective**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423017694?via%3Dihub)
 
+- <a name="TE-TFN"></a> **(TE-TFN)** Jingchao Wang, Xiao Liu, Weimin Li, Fangfang Liu, Xing Wu, Qun Jin. "**A Text-Enhanced Transformer Fusion Network for Multimodal Knowledge Graph Completion**". **`IEEE Intelligent Systems 2024`**. [paper](https://ieeexplore.ieee.org/document/10477522)
+
+- <a name="MvTuckER"></a> **(MvTuckER)** Hao Wang, Jing Yang, Laurence T. Yang, Yuan Gao, Jihong Ding, Xiaokang Zhou, Huazhong Liu. "**MvTuckER: Multi-view knowledge graphs representation learning based on tensor tucker model**". **`Information Fusion 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277?via%3Dihub)
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
 - <a name=""></a> **()** . "****". [paper]()
 
 - <a name=""></a> **()** . "****". [paper]()
