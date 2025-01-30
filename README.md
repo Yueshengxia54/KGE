@@ -95,15 +95,11 @@ Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/ind
 
 - <a name="DynaSemble"></a> **(DynaSemble)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-short.20/)
 
-##### APWeb-WAIM
-
 - Yashen Wang, Xiaoye Ouyang, Xiaoling Zhu, Dayu Guo, Yi Zhang. "**An Aggregation Procedure Enhanced Mechanism for GCN-Based Knowledge Graph Completion Model by Leveraging Condensed Sampling and Attention Optimization**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_23)
 
 - <a name="EvoREG"></a> **(EvoREG)** Peiheng He, Yingjie Xiao, Chengxin He, Lei Duan. "**EvoREG: Evolutional Modeling with Relation-Entity Dual-Guidance for Temporal Knowledge Graph Reasoning**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_17)
 
 - <a name="FedDM"></a> **(FedDM)** Bingchen Liu, Yuanyuan Fang, Xu Wang, Xin Li. "**Federated Knowledge Graph Embedding Unlearning via Diffusion Model**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_18)
-
-##### CIKM
 
 - <a name="Continual-FKGC"></a> **(Continual-FKGC)** Zhuofeng Li, Haoxiang Zhang, Qiannan Zhang, Ziyi Kou, Shichao Pei. "**Learning from Novel Knowledge: Continual Few-shot Knowledge Graph Completion**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679734)
 
@@ -126,15 +122,11 @@ Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/ind
 - <a name="UAG"></a> **(UAG)** Bo Ni. "**Reliable Knowledge Graph Reasoning
 with Uncertainty Quantification**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3680266)
 
-##### DASFAA
-
 - <a name="AttFGCN"></a> **(AttFGCN)** Mei Yu, Fan Gao, Mankun Zhao, Tianyi Xu, Jiujiang Guo, Wenbin Zhang, Dejun Hou, Ruiguo Yu. "**AttFGCN: A GCN-Based Method Using Attention Flow for Knowledge Graph Completion**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_27)
 
 - <a name="NESI"></a> **(NESI)** Yushun Xie, Haiyan Wang, Le Wang, Lei Luo, Jianxin Li, Zhaoquan Gu. "**Reinforced Negative Sampling for Knowledge Graph Embedding**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_23)
 
 - <a name="TRIP"></a> **(TRIP)** Fenxuan Lin, Junjie Yao. "**Inductive Type-aware Reasoning over Knowledge Graphs**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_19)
-
-##### ECAI
 
 - <a name="DECAL"></a> **(DECAL)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Degenerate Clifford
 Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240627)
