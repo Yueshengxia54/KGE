@@ -328,44 +328,39 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="McRL"></a> **(McRL)** Jiapu Wang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin. "**Multi-Concept Representation Learning for Knowledge Graph Completion**". **`ACM Transactions on Knowledge Discovery from Data 2023`**. [paper](https://dl.acm.org/doi/10.1145/3533017) :star::star:
 
+- <a name="ABIE"></a> **(ABIE)** Lijun Dong, Dongyang Zhao, Xiaoai Zhang, Xinchuan Li, Xiaojun Kang, Hong Yao. "**Anchors-Based Incremental Embedding for Growing Knowledge Graphs**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9655500)
 
+- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**Binarized Embeddings for Fast, Space-Efficient Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9411687)
 
+- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
 
-##### IEEE Transactions on Knowledge and Data Engineering
+- <a name="CMGNN"></a> **(CMGNN)** Quan Fang, Xiaowei Zhang, Jun Hu, Xian Wu, Changsheng Xu. "**Contrastive Multi-Modal Knowledge Graph Representation Learning**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9942333) :star:
 
-- <a name="ABIE"></a> **(ABIE)** Lijun Dong, Dongyang Zhao, Xiaoai Zhang, Xinchuan Li, Xiaojun Kang, Hong Yao. "**Anchors-Based Incremental Embedding for Growing Knowledge Graphs**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9655500)
+- <a name="CogKR"></a> **(CogKR)** Zhengxiao Du, Chang Zhou, Jiangchao Yao, Teng Tu, Letian Cheng, Hongxia Yang, Jingren Zhou, Jie Tang. "**CogKR: Cognitive Graph for Multi-Hop Knowledge Reasoning**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9512424) [code](https://github.com/THUDM/CogKR) :star::star::star:
 
-- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
+- <a name="ConnectE-MRGAT"></a> **(ConnectE-MRGAT)** Yu Zhao, Han Zhou, Anxiang Zhang, Ruobing Xie, Qing Li, Fuzhen Zhuang. "**Connecting Embeddings Based on Multiplex Relational Graph Attention Networks for Knowledge Graph Entity Typing**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9677939) :star::star::star::star:
 
-- <a name="CMGNN"></a> **(CMGNN)** Quan Fang, Xiaowei Zhang, Jun Hu, Xian Wu, Changsheng Xu. "**Contrastive Multi-Modal Knowledge Graph Representation Learning**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9942333)
+- <a name="DRGI"></a> **(DRGI)** Shuang Liang, Jie Shao, Dongyang Zhang, Jiasheng Zhang, Bin Cui. "**DRGI: Deep Relational Graph Infomax for Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9531531) :star::star::star::star::star:
 
-- <a name="CogKR"></a> **(CogKR)** Zhengxiao Du, Chang Zhou, Jiangchao Yao, Teng Tu, Letian Cheng, Hongxia Yang, Jingren Zhou, Jie Tang. "**CogKR: Cognitive Graph for Multi-Hop Knowledge Reasoning**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9512424) [code](https://github.com/THUDM/CogKR)
+- <a name="GeomE"></a> **(GeomE)** Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Geometric Algebra Based Embeddings for Static and Temporal Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9713947) :star:
 
-- <a name="ConnectE-MRGAT"></a> **(ConnectE-MRGAT)** Yu Zhao, Han Zhou, Anxiang Zhang, Ruobing Xie, Qing Li, Fuzhen Zhuang. "**Connecting Embeddings Based on Multiplex Relational Graph Attention Networks for Knowledge Graph Entity Typing**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9677939)
+- <a name="JSSKGE"></a> **(JSSKGE)** Weidong Li, Rong Peng, Zhi Li. "**Knowledge Graph Completion by Jointly Learning Structural Features and Soft Logical Rules**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9525301) :star::star:
 
-- <a name="DRGI"></a> **(DRGI)** Shuang Liang, Jie Shao, Dongyang Zhang, Jiasheng Zhang, Bin Cui. "**DRGI: Deep Relational Graph Infomax for Knowledge Graph Completion**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9531531)
+- <a name="MTRL"></a> **(MTRL)** Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Chao Li, Hui Xiong, Qing He, Yongjun Xu. "**Towards Robust Knowledge Graph Embedding via Multi-Task Reinforcement Learning**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9615000) :star:
 
-- <a name="GeomE"></a> **(GeomE)** Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Geometric Algebra Based Embeddings for Static and Temporal Knowledge Graph Completion**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9713947)
+- <a name="OERL"></a> **(OERL)** Qian Li, Daling Wang, Shi Feng, Kaisong Song, Yifei Zhang, Ge Yu. "**OERL: Enhanced Representation Learning via Open Knowledge Graphs**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9935254) [code](https://github.com/feiwangyuzhou/OERL) :star:
 
-- <a name="JSSKGE"></a> **(JSSKGE)** Weidong Li, Rong Peng, Zhi Li. "**Knowledge Graph Completion by Jointly Learning Structural Features and Soft Logical Rules**".**IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9525301)
+- <a name="SelfLinKG"></a> **(SelfLinKG)** Xiao Liu, Li Mian, Yuxiao Dong, Fanjin Zhang, Jing Zhang, Jie Tang, Peng Zhang, Jibing Gong, Kuansan Wang. "**OAGknow: Self-Supervised Learning for Linking Knowledge Graphs**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/9462338)
 
-- <a name="MTRL"></a> **(MTRL)** Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Chao Li, Hui Xiong, Qing He, Yongjun Xu. "**Towards Robust Knowledge Graph Embedding via Multi-Task Reinforcement Learning**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9615000)
+- <a name="TDN"></a> **(TDN)** Jiapu Wang, Boyue Wang, Junbin Gao, Xiaoyan Li, Yongli Hu, Baocai Yin. "**TDN: Triplet Distributor Network for Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2023`**. [paper](https://ieeexplore.ieee.org/document/10115028)
 
-- <a name="OERL"></a> **(OERL)** Qian Li, Daling Wang, Shi Feng, Kaisong Song, Yifei Zhang, Ge Yu. "**OERL: Enhanced Representation Learning via Open Knowledge Graphs**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/9935254) [code](https://github.com/feiwangyuzhou/OERL)
+- <a name="HRGAT"></a> **(HRGAT)**  Shuang Liang, Anjie Zhu, Jiasheng Zhang, Jie Shao. "**Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion**". **`ACM Transactions on Multimedia Computing, Communications, and Applications 2023`**. [paper](https://dl.acm.org/doi/10.1145/3545573) [code](https://github.com/broliang/HRGAT)
 
-- <a name="TDN"></a> **(TDN)** Jiapu Wang, Boyue Wang, Junbin Gao, Xiaoyan Li, Yongli Hu, Baocai Yin. "**TDN: Triplet Distributor Network for Knowledge Graph Completion**". **IEEE Transactions on Knowledge and Data Engineering 2023**. [paper](https://ieeexplore.ieee.org/document/10115028)
+- <a name="AutoBLM"></a> **(AutoBLM)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **`IEEE Transactions on Pattern Analysis and Machine Intelligence 2023`**. [paper](https://ieeexplore.ieee.org/document/9729658) [code](https://github.com/LARS-research/AutoSF)
 
-##### ACM Transactions on Multimedia Computing, Communications, and Applications
+- <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". **`IEEE Transactions on Pattern Analysis and Machine Intelligence 2023`**. [paper](https://ieeexplore.ieee.org/document/9741534)
 
-- <a name="HRGAT"></a> **(HRGAT)**  Shuang Liang, Anjie Zhu, Jiasheng Zhang, Jie Shao. "**Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion**". **ACM Transactions on Multimedia Computing, Communications, and Applications 2023**. [paper](https://dl.acm.org/doi/10.1145/3545573) [code](https://github.com/broliang/HRGAT)
-
-##### IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-- <a name="AutoBLM"></a> **(AutoBLM)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://ieeexplore.ieee.org/document/9729658) [code](https://github.com/LARS-research/AutoSF)
-
-- <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://ieeexplore.ieee.org/document/9741534)
-
-- <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://ieeexplore.ieee.org/document/9582776)
+- <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". **`IEEE Transactions on Pattern Analysis and Machine Intelligence 2023`**. [paper](https://ieeexplore.ieee.org/document/9582776)
 
 #### Conference
 
