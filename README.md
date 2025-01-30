@@ -464,8 +464,6 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=F8VKQyDgRVj) [code](https://github.com/vivian1993/NCRL) :star::star:
 
-##### ICML
-
 - <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". **`ICML 2023`**. [paper](https://proceedings.mlr.press/v202/lee23c.html) [code](https://github.com/bdi-lab/InGram) :star:
 
 - <a name="CEKFA"></a> **(CEKFA)** Yilin Wang, Minghao Hu, Zhen Huang, Dongsheng Li, Wei Luo, Dong Yang, Xicheng Lu. "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". **`IJCAI 2023`**. [paper](https://www.ijcai.org/proceedings/2023/259) [code](https://github.com/wylResearch/CEKFA)
