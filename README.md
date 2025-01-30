@@ -38,13 +38,18 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="IRAN"></a> **(IRAN)** Xuhua Yang, Qi-Yao Li, Dong Wei, Hai-Xia Long. "**Implicit relational attention network for few-shot knowledge graph completion**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05511-0)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="Light-HGCN"></a> **(Light-HGCN)** Jinglin Zhang, Bo Shen. "**A lightweight hierarchical graph convolutional model for knowledge graph representation learning**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05787-2)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MPNet"></a> **(MPNet)** Jingbin Wang, Renfei Wu, Yuwei Wu, Fuyuan Zhang, Sirui Zhang, Kun Guo. "**MPNet: temporal knowledge graph completion based
+on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05320-5)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MTRN"></a> **(MTRN)** Xuhua Yang, Dong Wei, Lian Zhang, Gang-Feng Ma, Xin-Li Xu, Haixia Long. "**Task-related network based on meta-learning for few-shot knowledge graph completion**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05480-4)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="SR-GNN"></a> **(SR-GNN)** Xinlu Li, Yujie Tian, Shengwei Ji. "**Semantic- and relation-based graph neural network for knowledge graph completion**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05482-2)
+
+- <a name="TSAE"></a> **(TSAE)** Anish Rajkumar Khobragade, Shashikant Ghumbre, Vinod Keshaorao Pachghare. "**Enhancing missing facts inference in knowledge graph using triplet subgraph attention embeddings**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-023-05254-4)
+
+- <a name="TSA-Net"></a> **(TSA-Net)** Ruzhong Xie, Ke Ruan, Bosong Huang, Weihao Yu, Jing Xiao, Jin Huang. "**TSA-Net: a temporal knowledge graph completion method with temporal-structural adaptation**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05734-1)
 
 - <a name=""></a> **()** . "****". [paper]() 
 
