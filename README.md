@@ -59,53 +59,47 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="MA-TPath"></a> **(MA-TPath)** Luyi Bai, Mingzhuo Chen, Qianwen Xiao. "**Multi-hop temporal knowledge graph reasoning with multi-agent reinforcement learning**". **`Applied Soft Computing 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624005015?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="HolmE"></a> **(HolmE)** Zhuoxun Zheng, Baifan Zhou, Hui Yang, Zhipeng Tan, Zequn Sun, Chunnong Li, Arild Waaler, Evgeny Kharlamov, Ahmet Soylu. "**Knowledge graph embedding closed under composition**". **`Data Mining and Knowledge Discovery 2024`**. [paper](https://link.springer.com/article/10.1007/s10618-024-01050-x) 
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="KTR"></a> **(KTR)** Kang Tang, Shasha Li, Jintao Tang, Dong Li, Pancheng Wang, Ting Wang. "**Fusing structural information with knowledge enhanced text representation for knowledge graph completion**". **`Data Mining and Knowledge Discovery 2024`**. [paper](https://link.springer.com/article/10.1007/s10618-023-00998-6)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="NSF-KGE"></a> **(NSF-KGE)** Adil Bahaj, Mounir Ghogho. "**Negative‑sample‑free knowledge graph embedding**". **`Data Mining and Knowledge Discovery 2024`**. [paper](https://link.springer.com/article/10.1007/s10618-024-01052-9)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="VEM2L"></a> **(VEM2L)** Tao He, Ming Liu, Yixin Cao, Meng Qu, Zihao Zheng, Bing Qin. "**VEM2L: an easy but efective framework for fusing text and structure knowledge on sparse knowledge graph completion**". **`Data Mining and Knowledge Discovery 2024`**. [paper](https://link.springer.com/article/10.1007/s10618-023-01001-y)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="InversEF"></a> **(InversEF)** Qianjin Zhang, Yandan Xu. "**Knowledge graph embedding with inverse function representation for link prediction**".  **`Engineering Applications of Artificial Intelligence 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014094?via%3Dihub) 
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="QM-mod"></a> **(QM-mod)** Lin Zhu, Wenjun Zhao, Luyi Bai. "**Quadruple mention text-enhanced temporal knowledge graph reasoning**". **`Engineering Applications of Artificial Intelligence 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624002161?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="CDRGN-SDE"></a> **(CDRGN-SDE)** Dong Zhang, Wenlong Feng, Zonghang Wu, Guanyu Li, Bo Ning. "**CDRGN-SDE: Cross-Dimensional Recurrent Graph Network with neural Stochastic Differential Equation for temporal knowledge graph embedding**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742400160X?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="ConeE"></a> **(ConeE)** Jingchao Wang, Weimin Li, Fangfang Liu, Zhenhai Wang, Alex Munyole Luvembe, Qun Jin, Quanke Pan, Fangyu Liu. "**ConeE: Global and local context-enhanced embedding for inductive knowledge graph completion**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423036205?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="FCC"></a> **(FCC)** Jin Liu, Chongfeng Fan, Fengyu Zhou, Huijuan Xu. "**Complete feature learning and consistent relation modeling for few-shot knowledge graph completion**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423022273?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="GLSEC"></a> **(GLSEC)** Ruixin Ma, Xiaoru Wang, Cunxi Cao, Xiya Bu, Hao Wu, Liang Zhao. "**GLSEC: Global and local semantic-enhanced contrastive framework for knowledge graph completion**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006596?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- Pengfei Zhang, Dong Chen, Yang Fang, Weidong Xiao, Xiang Zhao, Zhen Tan, Rui Wang. "**A knowledge graphs representation method based on IsA relation modeling**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424013344?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="LMS"></a> **(LMS)** Jinchuan Zhang, Bei Hui, Chong Mu, Ling Tian. "**Learning multi-graph structure for Temporal Knowledge Graph reasoning**".  **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424014283?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MFKGC"></a> **(MFKGC)** Ruixin Ma, Hao Wu, Xiaoru Wang, Weihe Wang, Yunlong Ma, Liang Zhao. "**Multi-view semantic enhancement model for few-shot knowledge graph completion**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423025885?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MFSSN"></a> **(MFSSN)** Jie Liu, Lizheng Zu, Yunbin Yan, Jiye Zuo, Benliang Sang. "**Multi-Filter soft shrinkage network for knowledge graph embedding**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007413?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MSHE"></a> **(MSHE)** Dan Jiang, Ronggui Wang, Lixia Xue, Juan Yang. "**Multisource hierarchical neural network for knowledge graph embedding**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423019486?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="SeAE"></a> **(SeAE)** Jingbin Wang, Hao Huang, Yuwei Wu, Fuyuan Zhang, Sirui Zhang, Kun Guo. "**Open Knowledge Graph Link Prediction with Semantic-Aware Embedding**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742400407X?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="SpaceRL-KG"></a> **(SpaceRL-KG)** Miguel Bermudo, Daniel Ayala, Inma Hernández, David Ruiz, Miguel Toro. "**SpaceRL-KG: Searching paths automatically combining embedding-based rewards with Reinforcement Learning in Knowledge Graphs**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/pii/S0957417424012764?via%3Dihub)
+
+- <a name="TComplEx"></a> **(TComplEx)** Jinfa Yang, Xianghua Ying, Yongjie Shi, Bowei Xing. "**Tensor decompositions for temporal knowledge graph completion with time perspective**". **`Expert Systems With Applications 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423017694?via%3Dihub)
 
 - <a name=""></a> **()** . "****". [paper]()
 
 - <a name=""></a> **()** . "****". [paper]()
 
 - <a name=""></a> **()** . "****". [paper]() 
-
-##### Engineering Applications of Artificial Intelligence
-
-- <a name="InversEF"></a> **(InversEF)** Qianjin Zhang, Yandan Xu. "**Knowledge graph embedding with inverse function representation for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014094?via%3Dihub) 
-
-##### Expert Systems With Applications
-
-- <a name="MSHE"></a> **(MSHE)** Dan Jiang, Ronggui Wang, Lixia Xue, Juan Yang. "**Multisource hierarchical neural network for knowledge graph embedding**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423019486?via%3Dihub)
 
 ##### Information Sciences
 
