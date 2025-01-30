@@ -58,8 +58,6 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 #### Conference
 
-##### AAAI
-
 - <a name="CompilE"></a> **(CompilE)** Wanyun Cui, Linqiu Zhang. "**Modeling Knowledge Graphs with Composite Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28675)
 
 - <a name="HGE"></a> **(HGE)** Jiaxin Pan, Mojtaba Nayyeri, Yinan Li, Steffen Staab. "**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
@@ -85,8 +83,6 @@ Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/ind
 
 - <a name="TEILP"></a> **(TEILP)** Siheng Xiong, Yuan Yang, Ali Payani, James Clayton Kerce, Faramarz Fekri. "**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29544)
 
-##### ACL
-
 - <a name="GradPath"></a> **(GradPath)** Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence. "**Generating and Evaluating Plausible Explanations for Knowledge Graph Completion**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.654/)
 
 - <a name="MR-MKG"></a> **(MR-MKG)** Junlin Lee, Yequan Wang, Jing Li, Min Zhang. "**Multimodal Reasoning with Multimodal Knowledge Graph**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.579/)
@@ -101,49 +97,49 @@ Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/ind
 
 ##### APWeb-WAIM
 
-- Yashen Wang, Xiaoye Ouyang, Xiaoling Zhu, Dayu Guo, Yi Zhang. "**An Aggregation Procedure Enhanced Mechanism for GCN-Based Knowledge Graph Completion Model by Leveraging Condensed Sampling and Attention Optimization**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_23)
+- Yashen Wang, Xiaoye Ouyang, Xiaoling Zhu, Dayu Guo, Yi Zhang. "**An Aggregation Procedure Enhanced Mechanism for GCN-Based Knowledge Graph Completion Model by Leveraging Condensed Sampling and Attention Optimization**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_23)
 
-- <a name="EvoREG"></a> **(EvoREG)** Peiheng He, Yingjie Xiao, Chengxin He, Lei Duan. "**EvoREG: Evolutional Modeling with Relation-Entity Dual-Guidance for Temporal Knowledge Graph Reasoning**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_17)
+- <a name="EvoREG"></a> **(EvoREG)** Peiheng He, Yingjie Xiao, Chengxin He, Lei Duan. "**EvoREG: Evolutional Modeling with Relation-Entity Dual-Guidance for Temporal Knowledge Graph Reasoning**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_17)
 
-- <a name="FedDM"></a> **(FedDM)** Bingchen Liu, Yuanyuan Fang, Xu Wang, Xin Li. "**Federated Knowledge Graph Embedding Unlearning via Diffusion Model**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_18)
+- <a name="FedDM"></a> **(FedDM)** Bingchen Liu, Yuanyuan Fang, Xu Wang, Xin Li. "**Federated Knowledge Graph Embedding Unlearning via Diffusion Model**". **`APWeb-WAIM 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_18)
 
 ##### CIKM
 
-- <a name="Continual-FKGC"></a> **(Continual-FKGC)** Zhuofeng Li, Haoxiang Zhang, Qiannan Zhang, Ziyi Kou, Shichao Pei. "**Learning from Novel Knowledge: Continual Few-shot Knowledge Graph Completion**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679734)
+- <a name="Continual-FKGC"></a> **(Continual-FKGC)** Zhuofeng Li, Haoxiang Zhang, Qiannan Zhang, Ziyi Kou, Shichao Pei. "**Learning from Novel Knowledge: Continual Few-shot Knowledge Graph Completion**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679734)
 
-- <a name="CSD"></a> **(CSD)** Yichen Liu, Jiawei Chen, Defang Chen, Zhehui Zhou, Yan Feng, Can Wang. "**Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679683)
+- <a name="CSD"></a> **(CSD)** Yichen Liu, Jiawei Chen, Defang Chen, Zhehui Zhou, Yan Feng, Can Wang. "**Confidence-aware Self-Semantic Distillation on Knowledge Graph Embedding**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679683)
 
-- <a name="DynDE"></a> **(DynDE)** Bin Zhang, Jiayin Li, Yuanfei Dai. "**Distilling Knowledge Based on Curriculum Learning for Temporal Knowledge Graph Embeddings**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679896)
+- <a name="DynDE"></a> **(DynDE)** Bin Zhang, Jiayin Li, Yuanfei Dai. "**Distilling Knowledge Based on Curriculum Learning for Temporal Knowledge Graph Embeddings**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679896)
 
-- <a name="EIPR"></a> **(EIPR)** Chong Mu, Lizong Zhang, Jinchuan Zhang, Qian Huang, Zhiguo Wang. "**Inductive Knowledge Graph Embedding via Exploring Interaction Patterns of Relations**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679667)
+- <a name="EIPR"></a> **(EIPR)** Chong Mu, Lizong Zhang, Jinchuan Zhang, Qian Huang, Zhiguo Wang. "**Inductive Knowledge Graph Embedding via Exploring Interaction Patterns of Relations**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679667)
 
-- <a name="FMult"></a> **(FMult)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Function Spaces**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679819)
+- <a name="FMult"></a> **(FMult)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Function Spaces**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679819)
 
-- <a name="HIST"></a> **(HIST)** Lijie Li, Hui Wang, Jiahang Li, Xiaodi Xu, Ye Wang, Tao Ren. "**Integrating Structure and Text for Enhancing Hyper-relational Knowledge Graph Representation via Structure Soft Prompt Tuning**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679698)
+- <a name="HIST"></a> **(HIST)** Lijie Li, Hui Wang, Jiahang Li, Xiaodi Xu, Ye Wang, Tao Ren. "**Integrating Structure and Text for Enhancing Hyper-relational Knowledge Graph Representation via Structure Soft Prompt Tuning**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679698)
 
-- <a name="LoGRe"></a> **(LoGRe)** Saiping Guan, Jiyao Wei, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng. "**Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679845)
+- <a name="LoGRe"></a> **(LoGRe)** Saiping Guan, Jiyao Wei, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng. "**Look Globally and Reason: Two-stage Path Reasoning over Sparse Knowledge Graphs**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679845)
 
-- <a name="STORE"></a> **(STORE)** Tianli Zhang, Tongya Zheng, Zhenbang Xiao, Zulong Chen, Liangyue Li, Zunlei Feng, Dongxiang Zhang, Mingli Song. "**Language Models-enhanced Semantic Topology Representation Learning for Temporal Knowledge Graph Extrapolation**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679602)
+- <a name="STORE"></a> **(STORE)** Tianli Zhang, Tongya Zheng, Zhenbang Xiao, Zulong Chen, Liangyue Li, Zunlei Feng, Dongxiang Zhang, Mingli Song. "**Language Models-enhanced Semantic Topology Representation Learning for Temporal Knowledge Graph Extrapolation**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679602)
 
-- <a name="TC-rules"></a> **(TC-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Bi-directional Learning of Logical Rules with Type Constraints for Knowledge Graph Completion**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679695)
+- <a name="TC-rules"></a> **(TC-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Bi-directional Learning of Logical Rules with Type Constraints for Knowledge Graph Completion**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3679695)
 
 - <a name="UAG"></a> **(UAG)** Bo Ni. "**Reliable Knowledge Graph Reasoning
-with Uncertainty Quantification**". **CIKM 2024**. [paper](https://dl.acm.org/doi/10.1145/3627673.3680266)
+with Uncertainty Quantification**". **`CIKM 2024`**. [paper](https://dl.acm.org/doi/10.1145/3627673.3680266)
 
 ##### DASFAA
 
-- <a name="AttFGCN"></a> **(AttFGCN)** Mei Yu, Fan Gao, Mankun Zhao, Tianyi Xu, Jiujiang Guo, Wenbin Zhang, Dejun Hou, Ruiguo Yu. "**AttFGCN: A GCN-Based Method Using Attention Flow for Knowledge Graph Completion**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_27)
+- <a name="AttFGCN"></a> **(AttFGCN)** Mei Yu, Fan Gao, Mankun Zhao, Tianyi Xu, Jiujiang Guo, Wenbin Zhang, Dejun Hou, Ruiguo Yu. "**AttFGCN: A GCN-Based Method Using Attention Flow for Knowledge Graph Completion**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_27)
 
-- <a name="NESI"></a> **(NESI)** Yushun Xie, Haiyan Wang, Le Wang, Lei Luo, Jianxin Li, Zhaoquan Gu. "**Reinforced Negative Sampling for Knowledge Graph Embedding**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_23)
+- <a name="NESI"></a> **(NESI)** Yushun Xie, Haiyan Wang, Le Wang, Lei Luo, Jianxin Li, Zhaoquan Gu. "**Reinforced Negative Sampling for Knowledge Graph Embedding**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_23)
 
-- <a name="TRIP"></a> **(TRIP)** Fenxuan Lin, Junjie Yao. "**Inductive Type-aware Reasoning over Knowledge Graphs**". **DASFAA 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_19)
+- <a name="TRIP"></a> **(TRIP)** Fenxuan Lin, Junjie Yao. "**Inductive Type-aware Reasoning over Knowledge Graphs**". **`DASFAA 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_19)
 
 ##### ECAI
 
 - <a name="DECAL"></a> **(DECAL)** Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Embedding Knowledge Graphs in Degenerate Clifford
-Algebras**". **ECAI 2024**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240627)
+Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240627)
 
-- <a name="FHRE"></a> **(FHRE)** Qiuyu Liang, Weihua Wang, Feilong Bao, Guanglai Gao. "**Fully Hyperbolic Rotation for Knowledge Graph Embedding**". **ECAI 2024**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240668)
+- <a name="FHRE"></a> **(FHRE)** Qiuyu Liang, Weihua Wang, Feilong Bao, Guanglai Gao. "**Fully Hyperbolic Rotation for Knowledge Graph Embedding**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240668)
 
 ### 2023
 
