@@ -234,36 +234,39 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="FRKGE"></a> **(FRKGE)** Xiaowen Zhang, Zong-Min Ma. "**Fuzzy RDF Knowledge Graph Embeddings Through Vector Space Model**". **`IEEE Transactions on Fuzzy Systems 2023`**. [paper](https://ieeexplore.ieee.org/document/9829249)
 
-##### Information Fusion
+- <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". **`Information Fusion 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub) :fire:
 
-- <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". **Information Fusion 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub) :fire:
+- <a name="VRNet"></a> **(VRNet)** Wenbo Dong, Shiliang Sun, Jing Zhao, Nan Zhang. "**Knowledge graph relation reasoning with variational reinforcement network**". **`Information Fusion 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002166?via%3Dihub)
 
-- <a name="VRNet"></a> **(VRNet)** Wenbo Dong, Shiliang Sun, Jing Zhao, Nan Zhang. "**Knowledge graph relation reasoning with variational reinforcement network**". **Information Fusion 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002166?via%3Dihub)
+- <a name="SPR-LSTM"></a> **(SPR-LSTM)** Yilin Wang, Zhen Huang, Minghao Hu, Dongsheng Li, Xicheng Lu, Wei Luo, Dong Yang. "**Structure Enhanced Path Reasoning for Knowledge Graph Completion**". **`International Journal of Intelligent Systems 2023`**. [paper](https://www.hindawi.com/journals/ijis/2023/3022539/)
 
-- <a name="SPR_LSTM"></a> **(SPR_LSTM)** Yilin Wang, Zhen Huang, Minghao Hu, Dongsheng Li, Xicheng Lu, Wei Luo, Dong Yang. "**Structure Enhanced Path Reasoning for Knowledge Graph Completion**". **International Journal of Intelligent Systems 2023**. [paper](https://www.hindawi.com/journals/ijis/2023/3022539/)
+- <a name="ConvHiA"></a> **(ConvHiA)** Dengao Li, Shuyi Miao, Bao-feng Zhao, Yu Zhou, Ding Feng, Jumin Zhao, Xupeng Niu. "**ConvHiA: convolutional network with hierarchical attention for knowledge graph multi-hop reasoning**". **`International Journal of Machine Learning and Cybernetics 2023`**. [paper](https://link.springer.com/article/10.1007/s13042-022-01764-8)
 
-- <a name="ConvHiA"></a> **(ConvHiA)** Dengao Li, Shuyi Miao, Bao-feng Zhao, Yu Zhou, Ding Feng, Jumin Zhao, Xupeng Niu. "**ConvHiA: convolutional network with hierarchical attention for knowledge graph multi-hop reasoning**". **International Journal of Machine Learning and Cybernetics 2023**. [paper](https://link.springer.com/article/10.1007/s13042-022-01764-8)
+- <a name="RASC"></a> **(RASC)** Xiaonan Li, Bo Ning, Guanyu Li, Wang Jie. "**Relation‑attention semantic‑correlative knowledge graph embedding for inductive link prediction**". **`International Journal of Machine Learning and Cybernetics 2023`**. [paper](https://link.springer.com/article/10.1007/s13042-023-01865-y)
 
-- <a name="RASC"></a> **(RASC)** Xiaonan Li, Bo Ning, Guanyu Li, Wang Jie. "**Relation‑attention semantic‑correlative knowledge graph embedding for inductive link prediction**". **International Journal of Machine Learning and Cybernetics 2023**. [paper](https://link.springer.com/article/10.1007/s13042-023-01865-y)
+- <a name="ConvHLE"></a> **(ConvHLE)** Jingxiong Wang, Qi Zhang, Fobo Shi, Duantengchuan Li, Yuefeng Cai, Jian Wang, Bing Li, Xiaoguang Wang, Zhen Zhang, Chao Zheng. "**Knowledge graph embedding model with attention-based high-low level features interaction convolutional network**". **`Information Processing and Management 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000870?via%3Dihub)
 
+- <a name="KRL_MLCCL"></a> **(KRL_MLCCL)** Xinhua Suo, Bing Guo, Yan Shen, Yaosen Chen, Wei Wang. "**KRL_MLCCL: Multi-label classification based on contrastive learning for knowledge representation learning under open world**". **`Information Processing and Management 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001486?via%3Dihub)
 
-##### Information Processing and Management
+- <a name="RelaGraph"></a> **(RelaGraph)** Bin Shi, Hao Wang, Yueyan Li, Sanhong Deng. "**RelaGraph: Improving embedding on small-scale sparse knowledge graphs by neighborhood relations**". **`Information Processing and Management 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S030645732300184X?via%3Dihub)
 
-- <a name="ConvHLE"></a> **(ConvHLE)** Jingxiong Wang, Qi Zhang, Fobo Shi, Duantengchuan Li, Yuefeng Cai, Jian Wang, Bing Li, Xiaoguang Wang, Zhen Zhang, Chao Zheng. "**Knowledge graph embedding model with attention-based high-low level features interaction convolutional network**". **Information Processing and Management 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000870?via%3Dihub)
+- <a name="SHGNet"></a> **(SHGNet)** Zhifei Li, Qi Zhang, Fangfang Zhu, Duantengchuan Li, Chao Zheng, Yan Zhang. "**Knowledge graph representation learning with simplifying hierarchical feature propagation**". **`Information Processing and Management 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000857?via%3Dihub)
 
-- <a name="SHGNet"></a> **(SHGNet)** Zhifei Li, Qi Zhang, Fangfang Zhu, Duantengchuan Li, Chao Zheng, Yan Zhang. "**Knowledge graph representation learning with simplifying hierarchical feature propagation**". **Information Processing and Management 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000857?via%3Dihub)
+- <a name="CKRL"></a> **(CKRL)** Maryam Sabet, Mohammad-Reza Pajoohan, Mohammad R. Moosavi. "**Representation learning of knowledge graphs with correlation-based methods**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552300628X?via%3Dihub)
 
-##### Information Sciences
+- <a name="HyGGE"></a> **(HyGGE)** Yuzhuo Wang, Hongzhi Wang, Wenbo Lu, Yu Yan. "**HyGGE: Hyperbolic graph attention network for reasoning over knowledge graphs**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002347?via%3Dihub)
 
-- <a name="HyGGE"></a> **(HyGGE)** Yuzhuo Wang, Hongzhi Wang, Wenbo Lu, Yu Yan. "**HyGGE: Hyperbolic graph attention network for reasoning over knowledge graphs**". **Information Sciences 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002347?via%3Dihub)
+- <a name="KGZSL"></a> **(KGZSL)** Xuewei Li, Jinming Ma, Jian Yu, Mankun Zhao, Mei Yu, Hongwei Liu, Weiping Ding, Ruiguo Yu. "**A structure-enhanced generative adversarial network for knowledge graph zero-shot relational learning**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001251?via%3Dihub)
 
-- <a name="KGZSL"></a> **(KGZSL)** Xuewei Li, Jinming Ma, Jian Yu, Mankun Zhao, Mei Yu, Hongwei Liu, Weiping Ding, Ruiguo Yu. "**A structure-enhanced generative adversarial network for knowledge graph zero-shot relational learning**". **Information Sciences 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001251?via%3Dihub)
+- <a name="NA-KGR"></a> **(NA-KGR)** Yuejia Wu, Jiantao Zhou. "**A neighborhood-aware graph self-attention mechanism-based pre-training model for Knowledge Graph Reasoning**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523010587?via%3Dihub)
 
-- <a name="TASTER"></a> **(TASTER)** Xin Wang, Shengfei Lyu, Xiangyu Wang, Xingyu Wu, Huanhuan Chen. "**Temporal knowledge graph embedding via sparse transfer matrix**". **Information Sciences 2023**.  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015122?via%3Dihub) [code](https://github.com/ZERONE00/TASTER)
+- <a name="QIQE-KGC"></a> **(QIQE-KGC)** LinYu Li, Xuan Zhang, Zhi Jin, Chen Gao, Rui Zhu, Yuqin Liang, Yubing Ma. "**Knowledge graph completion method based on quantum embedding and quaternion interaction enhancement**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011337?via%3Dihub)
 
-- <a name="T-GAE"></a> **(T-GAE)** Xiangning Hou, Ruizhe Ma, Li Yan, Zongmin Ma. "**T-GAE: A Timespan-aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion**". **Information Sciences 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008101?via%3Dihub)
+- <a name="TASTER"></a> **(TASTER)** Xin Wang, Shengfei Lyu, Xiangyu Wang, Xingyu Wu, Huanhuan Chen. "**Temporal knowledge graph embedding via sparse transfer matrix**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015122?via%3Dihub) [code](https://github.com/ZERONE00/TASTER)
 
-- <a name="TLmod"></a> **(TLmod)** Luyi Bai, Wenting Yu, Die Chai, Wenjun Zhao, Mingzhuo Chen. "**Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules**". **Information Sciences 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013871?via%3Dihub)
+- <a name="T-GAE"></a> **(T-GAE)** Xiangning Hou, Ruizhe Ma, Li Yan, Zongmin Ma. "**T-GAE: A Timespan-aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008101?via%3Dihub)
+
+- <a name="TLmod"></a> **(TLmod)** Luyi Bai, Wenting Yu, Die Chai, Wenjun Zhao, Mingzhuo Chen. "**Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013871?via%3Dihub)
 
 ##### Knowledge-Based Systems
 
