@@ -224,21 +224,15 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="TPRG"></a> **(TPRG)** Luyi Bai, Mingzhuo Chen, Lin Zhu, Xiangxi Meng. "**Multi-hop temporal knowledge graph reasoning with temporal path rules guidance**". **`Expert Systems With Applications 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056?via%3Dihub) [code](https://github.com/DMKE-Lab/TPRG) :star:
 
-##### Future Generation Computer Systems
+- <a name="SubEE"></a> **(SubEE)** Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. "**Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion**". **`Future Generation Computer Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002108?via%3Dihub)
 
-- <a name="SubEE"></a> **(SubEE)** Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. "**Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002108?via%3Dihub)
+- <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". **`Future Generation Computer Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub) :star:
 
-- <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". **Future Generation Computer Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub) :star:
+- <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". **`IEEE Robotics and Automation Letters 2023`**. [paper](https://ieeexplore.ieee.org/document/10103578)
 
-- <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". **IEEE Robotics and Automation Letters 2023**. [paper](https://ieeexplore.ieee.org/document/10103578)
+- <a name="FedCKE"></a> **(FedCKE)** Wei Huang, Jia Liu, Tianrui Li, Shenggong Ji, Dexian Wang, Tianqiang Huang. "**FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning**". **`IEEE Transactions on Big Data 2023`**. [paper](https://ieeexplore.ieee.org/document/9887815)
 
-##### IEEE Transactions on Big Data
-
-- <a name="FedCKE"></a> **(FedCKE)** Wei Huang, Jia Liu, Tianrui Li, Shenggong Ji, Dexian Wang, Tianqiang Huang. "**FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning**". **IEEE Transactions on Big Data 2023**. [paper](https://ieeexplore.ieee.org/document/9887815)
-
-##### IEEE Transactions on Fuzzy Systems
-
-- <a name="FRKGE"></a> **(FRKGE)** Xiaowen Zhang, Zong-Min Ma. "**Fuzzy RDF Knowledge Graph Embeddings Through Vector Space Model**". **IEEE Transactions on Fuzzy Systems 2023**. [paper](https://ieeexplore.ieee.org/document/9829249)
+- <a name="FRKGE"></a> **(FRKGE)** Xiaowen Zhang, Zong-Min Ma. "**Fuzzy RDF Knowledge Graph Embeddings Through Vector Space Model**". **`IEEE Transactions on Fuzzy Systems 2023`**. [paper](https://ieeexplore.ieee.org/document/9829249)
 
 ##### Information Fusion
 
