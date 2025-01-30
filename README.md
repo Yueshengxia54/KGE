@@ -32,11 +32,11 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 #### Journal
 
-- <a name="CH-TKG"></a> **(CH-TKG)** Qiuying Ma, Xuan Zhang, Zishuo Ding, Chen Gao, Weiyi Shang, Qiong Nong, Yubin Ma, Zhi Jin. "**Temporal knowledge graph reasoning based on evolutional representation and contrastive learning**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05767-6)
+- <a name="CH-TKG"></a> **(`CH-TKG`)** Qiuying Ma, Xuan Zhang, Zishuo Ding, Chen Gao, Weiyi Shang, Qiong Nong, Yubin Ma, Zhi Jin. "**Temporal knowledge graph reasoning based on evolutional representation and contrastive learning**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05767-6)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="Ensemble"></a> **(Ensemble)** Yalin Wang, Yubin Peng, Jingyu Guo. "**Enhancing knowledge graph embedding with structure and semantic features**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05315-2)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="IRAN"></a> **(IRAN)** Xuhua Yang, Qi-Yao Li, Dong Wei, Hai-Xia Long. "**Implicit relational attention network for few-shot knowledge graph completion**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05511-0)
 
 - <a name=""></a> **()** . "****". [paper]()
 
