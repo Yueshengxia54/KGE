@@ -4,8 +4,8 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ## Contents
 
-* [Libraries](#Libraries)
-* [Methodologies](#methodologies)
+* [Libraries](#libraries)
+* [Methods](#methods)
 * [Papers](#papers)
 
 ## Libraries
