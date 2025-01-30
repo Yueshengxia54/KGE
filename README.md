@@ -198,13 +198,13 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 ##### Data Mining and Knowledge Discovery
 
-- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
+- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **`Data Mining and Knowledge Discovery 2023`**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
 
-- <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
+- <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". **`Data Mining and Knowledge Discovery 2023`**. [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
 
-- <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
+- <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". **`Data Mining and Knowledge Discovery 2023`**. [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
 
-- <a name="OSLT"></a> **(OSLT)** Ruixin Ma, Biao Mei, Yunlong Ma, Hongyan Zhang, Meihong Liu, Liang Zhao. "**One-shot relational learning for extrapolation reasoning on temporal knowledge graphs**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-023-00935-7)
+- <a name="OSLT"></a> **(OSLT)** Ruixin Ma, Biao Mei, Yunlong Ma, Hongyan Zhang, Meihong Liu, Liang Zhao. "**One-shot relational learning for extrapolation reasoning on temporal knowledge graphs**". **`Data Mining and Knowledge Discovery 2023`**. [paper](https://link.springer.com/article/10.1007/s10618-023-00935-7)
 
 ##### Engineering Applications of Artificial Intelligence
 
