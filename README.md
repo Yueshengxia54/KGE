@@ -60,7 +60,7 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 ##### AAAI
 
-- <a name="CompilE"></a> **(CompilE)** Wanyun Cui, Linqiu Zhang. "**Modeling Knowledge Graphs with Composite Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28675)
+- <a name="CompilE"></a> **(CompilE)** Wanyun Cui, Linqiu Zhang. "**Modeling Knowledge Graphs with Composite Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28675)
 
 - <a name="HGE"></a> **(HGE)** Jiaxin Pan, Mojtaba Nayyeri, Yinan Li, Steffen Staab. "**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
 
