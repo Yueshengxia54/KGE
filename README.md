@@ -66,23 +66,24 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="IncDE"></a> **(IncDE)** Jiajun Liu, Wenjun Ke, Peng Wang, Ziyu Shang, Jinhua Gao, Guozheng Li, Ke Ji, Yanhe Liu. "**Towards Continual Knowledge Graph Embedding via Incremental Distillation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="KGDM"></a> **(KGDM)** Xiao Long, Liansheng Zhuang, Aodi Li, Jiuchang Wei, Houqiang Li, Shafei Wang. "**KGDM: A Diffusion Model to Capture Multiple Relation Semantics for Knowledge Graph Embedding**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="KGEditor"></a> **(KGEditor)** Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbin Liu, Huajun Chen. "**Editing Language Model-Based Knowledge Graph Embeddings**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="KGTS"></a> **(KGTS)** Zhen Chen, Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang. "**KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28672)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="LAFA"></a> **(LAFA)** Bin Shang, Yinliang Zhao, Jun Liu, Di Wang. "**LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28744)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="MGTCA"></a> **(MGTCA)** Bin Shang, Yinliang Zhao, Jun Liu, Di Wang. "**Mixed Geometry Message and Trainable Convolutional Attention Network for
+Knowledge Graph Completion**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28745)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="NestE"></a> **(NestE)** Bo Xiong, Mojtaba Nayyeri, Linhao Luo, Zihao Wang, Shirui Pan, Steffen Staab. "**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28772)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="PMD"></a> **(PMD)** Cunhang Fan, Yujie Chen, Jun Xue, Yonghui Kong, Jianhua Tao, Zhao Lv. "**Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28680)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="Structure-CLIP"></a> **(Structure-CLIP)** Yufeng Huang, Jiji Tang, Zhuo Chen, Rongsheng Zhang, Xinfeng Zhang, Weijie Chen, Zeng Zhao, Zhou Zhao, Tangjie Lv, Zhipeng Hu, Wen Zhang. "**Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28017)
 
-- <a name=""></a> **()** . "****". **AAAI 2024**. [paper]()
+- <a name="TEILP"></a> **(TEILP)** Siheng Xiong, Yuan Yang, Ali Payani, James Clayton Kerce, Faramarz Fekri. "**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29544)
 
 ##### ACL
 
@@ -97,6 +98,14 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 - <a name="TPAR"></a> **(TPAR)** Kai Chen, Ye Wang, Yitong Li, Aiping Li, Han Yu, Xin Song. "**A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.8/)
 
 - <a name="DynaSemble"></a> **(DynaSemble)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-short.20/)
+
+##### APWeb-WAIM
+
+- Yashen Wang, Xiaoye Ouyang, Xiaoling Zhu, Dayu Guo, Yi Zhang. "**An Aggregation Procedure Enhanced Mechanism for GCN-Based Knowledge Graph Completion Model by Leveraging Condensed Sampling and Attention Optimization**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_23)
+
+- <a name="EvoREG"></a> **(EvoREG)** Peiheng He, Yingjie Xiao, Chengxin He, Lei Duan. "**EvoREG: Evolutional Modeling with Relation-Entity Dual-Guidance for Temporal Knowledge Graph Reasoning**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_17)
+
+- <a name="FedDM"></a> **(FedDM)** Bingchen Liu, Yuanyuan Fang, Xu Wang, Xin Li. "**Federated Knowledge Graph Embedding Unlearning via Diffusion Model**". **APWeb-WAIM 2024**. [paper](https://link.springer.com/chapter/10.1007/978-981-97-7235-3_18)
 
 ##### CIKM
 
