@@ -62,42 +62,42 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 - <a name="CompilE"></a> **(CompilE)** Wanyun Cui, Linqiu Zhang. "**Modeling Knowledge Graphs with Composite Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28675)
 
-- <a name="HGE"></a> **(HGE)** Jiaxin Pan, Mojtaba Nayyeri, Yinan Li, Steffen Staab. "**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
+- <a name="HGE"></a> **(HGE)** Jiaxin Pan, Mojtaba Nayyeri, Yinan Li, Steffen Staab. "**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28739)
 
-- <a name="IncDE"></a> **(IncDE)** Jiajun Liu, Wenjun Ke, Peng Wang, Ziyu Shang, Jinhua Gao, Guozheng Li, Ke Ji, Yanhe Liu. "**Towards Continual Knowledge Graph Embedding via Incremental Distillation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)
+- <a name="IncDE"></a> **(IncDE)** Jiajun Liu, Wenjun Ke, Peng Wang, Ziyu Shang, Jinhua Gao, Guozheng Li, Ke Ji, Yanhe Liu. "**Towards Continual Knowledge Graph Embedding via Incremental Distillation**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)
 
-- <a name="KGDM"></a> **(KGDM)** Xiao Long, Liansheng Zhuang, Aodi Li, Jiuchang Wei, Houqiang Li, Shafei Wang. "**KGDM: A Diffusion Model to Capture Multiple Relation Semantics for Knowledge Graph Embedding**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
+- <a name="KGDM"></a> **(KGDM)** Xiao Long, Liansheng Zhuang, Aodi Li, Jiuchang Wei, Houqiang Li, Shafei Wang. "**KGDM: A Diffusion Model to Capture Multiple Relation Semantics for Knowledge Graph Embedding**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
 
-- <a name="KGEditor"></a> **(KGEditor)** Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbin Liu, Huajun Chen. "**Editing Language Model-Based Knowledge Graph Embeddings**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
+- <a name="KGEditor"></a> **(KGEditor)** Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbin Liu, Huajun Chen. "**Editing Language Model-Based Knowledge Graph Embeddings**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28732)
 
-- <a name="KGTS"></a> **(KGTS)** Zhen Chen, Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang. "**KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28672)
+- <a name="KGTS"></a> **(KGTS)** Zhen Chen, Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang. "**KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28672)
 
-- <a name="LAFA"></a> **(LAFA)** Bin Shang, Yinliang Zhao, Jun Liu, Di Wang. "**LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28744)
+- <a name="LAFA"></a> **(LAFA)** Bin Shang, Yinliang Zhao, Jun Liu, Di Wang. "**LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28744)
 
 - <a name="MGTCA"></a> **(MGTCA)** Bin Shang, Yinliang Zhao, Jun Liu, Di Wang. "**Mixed Geometry Message and Trainable Convolutional Attention Network for
-Knowledge Graph Completion**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28745)
+Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28745)
 
-- <a name="NestE"></a> **(NestE)** Bo Xiong, Mojtaba Nayyeri, Linhao Luo, Zihao Wang, Shirui Pan, Steffen Staab. "**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28772)
+- <a name="NestE"></a> **(NestE)** Bo Xiong, Mojtaba Nayyeri, Linhao Luo, Zihao Wang, Shirui Pan, Steffen Staab. "**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28772)
 
-- <a name="PMD"></a> **(PMD)** Cunhang Fan, Yujie Chen, Jun Xue, Yonghui Kong, Jianhua Tao, Zhao Lv. "**Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28680)
+- <a name="PMD"></a> **(PMD)** Cunhang Fan, Yujie Chen, Jun Xue, Yonghui Kong, Jianhua Tao, Zhao Lv. "**Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28680)
 
-- <a name="Structure-CLIP"></a> **(Structure-CLIP)** Yufeng Huang, Jiji Tang, Zhuo Chen, Rongsheng Zhang, Xinfeng Zhang, Weijie Chen, Zeng Zhao, Zhou Zhao, Tangjie Lv, Zhipeng Hu, Wen Zhang. "**Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28017)
+- <a name="Structure-CLIP"></a> **(Structure-CLIP)** Yufeng Huang, Jiji Tang, Zhuo Chen, Rongsheng Zhang, Xinfeng Zhang, Weijie Chen, Zeng Zhao, Zhou Zhao, Tangjie Lv, Zhipeng Hu, Wen Zhang. "**Structure-CLIP: Towards Scene Graph Knowledge to Enhance Multi-Modal Structured Representations**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28017)
 
-- <a name="TEILP"></a> **(TEILP)** Siheng Xiong, Yuan Yang, Ali Payani, James Clayton Kerce, Faramarz Fekri. "**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**". **AAAI 2024**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29544)
+- <a name="TEILP"></a> **(TEILP)** Siheng Xiong, Yuan Yang, Ali Payani, James Clayton Kerce, Faramarz Fekri. "**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**". **`AAAI 2024`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29544)
 
 ##### ACL
 
-- <a name="GradPath"></a> **(GradPath)** Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence. "**Generating and Evaluating Plausible Explanations for Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.654/)
+- <a name="GradPath"></a> **(GradPath)** Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence. "**Generating and Evaluating Plausible Explanations for Knowledge Graph Completion**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.654/)
 
-- <a name="MR-MKG"></a> **(MR-MKG)** Junlin Lee, Yequan Wang, Jing Li, Min Zhang. "**Multimodal Reasoning with Multimodal Knowledge Graph**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.579/)
+- <a name="MR-MKG"></a> **(MR-MKG)** Junlin Lee, Yequan Wang, Jing Li, Min Zhang. "**Multimodal Reasoning with Multimodal Knowledge Graph**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.579/)
 
-- <a name="RLF-KG"></a> **(RLF-KG)** Jiaxin Bai, Yicheng Wang, Tianshi Zheng, Yue Guo, Xin Liu, Yangqiu Song. "**Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.72/)
+- <a name="RLF-KG"></a> **(RLF-KG)** Jiaxin Bai, Yicheng Wang, Tianshi Zheng, Yue Guo, Xin Liu, Yangqiu Song. "**Advancing Abductive Reasoning in Knowledge Graphs through Complex Logical Hypothesis Generation**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.72/)
 
-- <a name="TCompoundE"></a> **(TCompoundE)** Rui Ying, Mengting Hu, Jianfeng Wu, Yalan Xie, Xiaoyi Liu, Zhunheng Wang, Ming Jiang, Hang Gao, Linlin Zhang, Renhong Cheng. "**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.596/)
+- <a name="TCompoundE"></a> **(TCompoundE)** Rui Ying, Mengting Hu, Jianfeng Wu, Yalan Xie, Xiaoyi Liu, Zhunheng Wang, Ming Jiang, Hang Gao, Linlin Zhang, Renhong Cheng. "**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.596/)
 
-- <a name="TPAR"></a> **(TPAR)** Kai Chen, Ye Wang, Yitong Li, Aiping Li, Han Yu, Xin Song. "**A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-long.8/)
+- <a name="TPAR"></a> **(TPAR)** Kai Chen, Ye Wang, Yitong Li, Aiping Li, Han Yu, Xin Song. "**A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-long.8/)
 
-- <a name="DynaSemble"></a> **(DynaSemble)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion**". **ACL 2024**. [paper](https://aclanthology.org/2024.acl-short.20/)
+- <a name="DynaSemble"></a> **(DynaSemble)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion**". **`ACL 2024`**. [paper](https://aclanthology.org/2024.acl-short.20/)
 
 ##### APWeb-WAIM
 
