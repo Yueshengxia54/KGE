@@ -99,25 +99,25 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="MvTuckER"></a> **(MvTuckER)** Hao Wang, Jing Yang, Laurence T. Yang, Yuan Gao, Jihong Ding, Xiaokang Zhou, Huazhong Liu. "**MvTuckER: Multi-view knowledge graphs representation learning based on tensor tucker model**". **`Information Fusion 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524000277?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="GATFCN"></a> **(GATFCN)** Yuzhu Jin, Liu Yang. "**Graph‑aware tensor factorization convolutional network for knowledge graph completion**". **`International Journal of Machine Learning and Cybernetics 2024`**. [paper](https://link.springer.com/article/10.1007/s13042-023-01995-3)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="HHAN-KGC"></a> **(HHAN-KGC)** Jiaohuang Luo, Changlong Song. "**Knowledge graph completion model based on hyperbolic hierarchical attention network**". **`International Journal of Machine Learning and Cybernetics 2024`**. [paper](https://link.springer.com/article/10.1007/s13042-024-02126-2)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="RCGCN-TE"></a> **(RCGCN-TE)** Hong Yu, Jinxuan Tang, Zhihan Peng, Ye Wang. "**Relation correlations‑aware graph convolutional network with text‑enhanced for knowledge graph embedding**". **`International Journal of Machine Learning and Cybernetics 2024`**. [paper](https://link.springer.com/article/10.1007/s13042-024-02179-3)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="DLGR"></a> **(DLGR)** Yao Xiao, Guangyou Zhou, Zhiwen Xie, Jin Liu, Jimmy Xiangji Huang. "**Learning dual disentangled representation with self-supervision for temporal knowledge graph reasoning**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003552?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="DT4KGR"></a> **(DT4KGR)** Yi Xia, Junyong Luo, Gang Zhou, Mingjing Lan, Xiaohui Chen, Jing Chen. "**DT4KGR: Decision transformer for fast and effective multi-hop reasoning over knowledge graphs**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324000086?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="DTAE"></a> **(DTAE)** Weibin Deng, Yiteng Zhang, Hong Yu, Hongxing Li. "**Knowledge graph embedding based on dynamic adaptive atrous convolution and attention mechanism for link prediction**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324000025?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="RGAI"></a> **(RGAI)** Bin Shang, Yinliang Zhao, Jun Liu. "**Knowledge graph representation learning with relation-guided aggregation and interaction**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001122?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="STKGR-PR"></a> **(STKGR-PR)** Xiangxi Meng, Luyi Bai, Jiahui Hu, Lin Zhu. "**Multi-hop path reasoning over sparse temporal knowledge graphs based on path completion and reward shaping**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003424?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="TaReT"></a> **(TaReT)** Jiangtao Ma, Kunlin Li, Fan Zhang, Yanjun Wang, Xiangyang Luo, Chenliang Li, Yaqiong Qiao. "**TaReT: Temporal knowledge graph reasoning based on topology-aware dynamic relation graph and temporal fusion**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324002073?via%3Dihub)
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="TEGS"></a> **(TEGS)** Zhifei Li, Yue Jian, Zengcan Xue, Yumin Zheng, Miao Zhang, Yan Zhang, Xiaoju Hou, Xiaoguang Wang. "**Text-enhanced knowledge graph representation learning with local structure**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001560?via%3Dihub)
 
 - <a name=""></a> **()** . "****". [paper]()
 
