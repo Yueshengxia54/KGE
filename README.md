@@ -154,6 +154,70 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="FHRE"></a> **(FHRE)** Qiuyu Liang, Weihua Wang, Feilong Bao, Guanglai Gao. "**Fully Hyperbolic Rotation for Knowledge Graph Embedding**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240668)
 
+- <a name="RISDF"></a> **(RISDF)** Mei Yu, Yilin Zuo, Wenbin Zhang, Mankun Zhao, Tianyi Xu, Yue Zhao, Jiujiang Guo, Jian Yu. "**Graph Attention Network with Relational Dynamic Factual Fusion for Knowledge Graph Completion**". **`ECML-PKDD 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-70359-1_6)
+
+- <a name="UniBi"></a> **(UniBi)** Jiayi Li, Ruilin Luo, Jiaqi Sun, Jing Xiao, Yujiu Yang. "**Prior Bilinear-Based Models for Knowledge Graph Completion**". **`ECML-PKDD 2024`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_19)
+
+- Rama Widyadhana Bhagaskoro, Volker Markl, Zoi Kaoudi. "**Evaluation of Sampling Methods for Discovering Facts from Knowledge Graph Embeddings**". **`EDBT 2024`**. [paper](https://openproceedings.org/2024/conf/edbt/paper-144.pdf)
+
+- <a name="ATAP"></a> **(ATAP)** Fu Zhang, Yifan Ding, Jingwei Cheng. "**ATAP: Automatic Template-Augmented Commonsense Knowledge Graph Completion via Pre-Trained Language Models**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.919/)
+
+- Zhongwu Chen, Long Bai, Zixuan Li, Zhen Huang, Xiaolong Jin, Yong Dou. "**A New Pipeline for Knowledge Graph Reasoning Enhanced by Large Language Models Without Fine-Tuning**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.81/)
+
+- <a name="MGESL"></a> **(MGESL)** Shi Mingcong, Chunjiang Zhu, Detian Zhang, Shiting Wen, Qing Li. "**Multi-Granularity History and Entity Similarity Learning for Temporal Knowledge Graph Reasoning**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.298/)
+
+- <a name="MoCoKGC"></a> **(MoCoKGC)** Qingyang Li, Yanru Zhong, Yuchu Qin. "**MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.832/)
+
+- <a name="MQuinE"></a> **(MQuinE)** Yang Liu, Huang Fang, Yunfeng Cai, Mingming Sun. "**MQuinE: a Cure for “Z-paradox” in Knowledge Graph Embedding**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.549/)
+
+- <a name="PEMLM"></a> **(PEMLM)** Chenyu Qiu, Pengjiang Qian, Chuang Wang, Jian Yao, Li Liu, Wei Fang, Eddie Eddie. "**Joint Pre-Encoding Representation and Sturcture Embedding for Efficient and Low-Resource Knowledge Graph Completion**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.851/)
+
+- <a name="StructKGC"></a> **(StructKGC)** Jiashi Lin, Lifang Wang, Xinyu Lu, Zhongtian Hu, Wei Zhang, Wenxuan Lu. "**Improving Knowledge Graph Completion with Structure-Aware Supervised Contrastive Learning**". **`EMNLP 2024`**. [paper](https://aclanthology.org/2024.emnlp-main.772/)
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
+- <a name=""></a> **()** . "****". **``**. [paper]()
+
 ### 2023
 
 #### Journal
