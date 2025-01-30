@@ -190,15 +190,11 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="TransEllipsoid"></a> **(TransEllipsoid)** Jibin Yu, Chunhong Zhang, Zheng Hu, Yang Ji, Dongjun Fu, Xueyu Wang. "**Geometry-based anisotropy representation learning of concepts for knowledge graph embedding**". **`Applied Intelligence 2023`**. [paper](https://link.springer.com/article/10.1007/s10489-023-04528-1)
 
-##### CAAI Transactions on Intelligence Technology
+- <a name="ReTIN"></a> **(ReTIN)** Yan Jia, Mengqi Lin, Ye Wang, Jianming Li, Kai Chen, Joanna Siebert, Geordie Z. Zhang, Qing Liao. "**Extrapolation over temporal knowledge graph via hyperbolic embedding**". **`CAAI Transactions on Intelligence Technology 2023`**. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12186)
 
-- <a name="ReTIN"></a> **(ReTIN)** Yan Jia, Mengqi Lin, Ye Wang, Jianming Li, Kai Chen, Joanna Siebert, Geordie Z. Zhang, Qing Liao. "**Extrapolation over temporal knowledge graph via hyperbolic embedding**". **CAAI Transactions on Intelligence Technology 2023**. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12186)
+- <a name="MsCNN"></a> **(MsCNN)** Wei Liu, Peijie Wang, Zhihui Zhang, Qiong Liu. "**Multi‑Scale Convolutional Neural Network for Temporal Knowledge Graph Completion**". **`Cognitive Computation 2023`**. [paper](https://link.springer.com/article/10.1007/s12559-023-10134-7)
 
-- <a name="MsCNN"></a> **(MsCNN)** Wei Liu, Peijie Wang, Zhihui Zhang, Qiong Liu. "**Multi‑Scale Convolutional Neural Network for Temporal Knowledge Graph Completion**". **Cognitive Computation 2023**. [paper](https://link.springer.com/article/10.1007/s12559-023-10134-7)
-
-##### Computers and Electrical Engineering
-
-- <a name="UKGCSR"></a> **(UKGCSR)** Guoming Lu, Hao Zhang, Ke Qin, Kai Du. "**A causal-based symbolic reasoning framework for uncertain knowledge graphs**". **Computers and Electrical Engineering 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062200756X?via%3Dihub)
+- <a name="UKGCSR"></a> **(UKGCSR)** Guoming Lu, Hao Zhang, Ke Qin, Kai Du. "**A causal-based symbolic reasoning framework for uncertain knowledge graphs**". **`Computers and Electrical Engineering 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062200756X?via%3Dihub)
 
 ##### Data Mining and Knowledge Discovery
 
