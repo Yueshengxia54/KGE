@@ -32,6 +32,22 @@ A collection of Knowledge Graph Embeddings works, including papers, codes and da
 
 #### Journal
 
+- <a name="CH-TKG"></a> **(CH-TKG)** Qiuying Ma, Xuan Zhang, Zishuo Ding, Chen Gao, Weiyi Shang, Qiong Nong, Yubin Ma, Zhi Jin. "**Temporal knowledge graph reasoning based on evolutional representation and contrastive learning**". **`Applied Intelligence 2024`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05767-6)
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]() 
+
 ##### Engineering Applications of Artificial Intelligence
 
 - <a name="InversEF"></a> **(InversEF)** Qianjin Zhang, Yandan Xu. "**Knowledge graph embedding with inverse function representation for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014094?via%3Dihub) 
