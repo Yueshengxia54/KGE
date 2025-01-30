@@ -438,13 +438,9 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="TAGNet"></a> **(TAGNet)** Harry Shomer, Yao Ma, Juanhui Li, Bo Wu, Charu C. Aggarwal, Jiliang Tang. "**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**". **`EMNLP 2023`**. [paper](https://aclanthology.org/2023.emnlp-main.908/) [code](https://github.com/HarryShomer/TAGNet)
 
-##### ESWC
-
 - <a name="LMKBC"></a> **(LMKBC)** Blerta Veseli, Sneha Singhania, Simon Razniewski, Gerhard Weikum. "**Evaluating Language Models for Knowledge Base Completion**". **`ESWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_14) :star::star:
 
 - <a name="WGE"></a> **(WGE)** Vinh Tong, Dai Quoc Nguyen, Dinh Q. Phung, Dat Quoc Nguyen. "**Two-View Graph Neural Networks for Knowledge Graph Completion**". **`ESWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_16)
-
-##### ICCBR
 
 - <a name="CICBR"></a> **(CICBR)** Yuejia Wu, Jian-tao Zhou. "**A Contextual Information-Augmented Probabilistic Case-Based Reasoning Model for Knowledge Graph Reasoning**". **`ICCBR 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-40177-0_7)
 
@@ -458,202 +454,109 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="HECERN"></a> **(HECERN)** Yujia Yang, Conghui Zheng, Li Pan. "**Homogeneous Entity Context Enhanced Representation Network for Temporal Knowledge Graph Reasoning**". **`ICDM 2023`**. [paper](https://ieeexplore.ieee.org/document/10415657)
 
-##### ICLR
+- <a name="ExpressivE"></a> **(ExpressivE)** Aleksandar Pavlovic, Emanuel Sallinger. "**ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=xkev3_np08z) :star::star:
 
-- <a name="ExpressivE"></a> **(ExpressivE)** Aleksandar Pavlovic, Emanuel Sallinger. "**ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion**". [paper](https://openreview.net/forum?id=xkev3_np08z) :star::star:
+- <a name="HiRe"></a> **(HiRe)** Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo. "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=zlwBI2gQL3K) :star::star:
 
-- <a name="HiRe"></a> **(HiRe)** Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo. "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". [paper](https://openreview.net/forum?id=zlwBI2gQL3K) :star::star:
+- <a name="LERP"></a> **(LERP)** Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji. "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=JdgO-ht1uTN) [code](https://github.com/Glaciohound/LERP)
 
-- <a name="LERP"></a> **(LERP)** Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji. "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". [paper](https://openreview.net/forum?id=JdgO-ht1uTN) [code](https://github.com/Glaciohound/LERP)
+- <a name="MarT"></a> **(MarT)** Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen. "**Multimodal Analogical Reasoning over Knowledge Graphs**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=NRHajbzg8y0P) [code](https://github.com/zjunlp/MKG_Analogy) :star::star:
 
-- <a name="MarT"></a> **(MarT)** Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen. "**Multimodal Analogical Reasoning over Knowledge Graphs**". [paper](https://openreview.net/forum?id=NRHajbzg8y0P) [code](https://github.com/zjunlp/MKG_Analogy) :star::star:
-
-- <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". [paper](https://openreview.net/forum?id=F8VKQyDgRVj) [code](https://github.com/vivian1993/NCRL) :star::star:
+- <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=F8VKQyDgRVj) [code](https://github.com/vivian1993/NCRL) :star::star:
 
 ##### ICML
 
-- <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". [paper](https://proceedings.mlr.press/v202/lee23c.html) [code](https://github.com/bdi-lab/InGram) :star:
+- <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". **`ICML 2023`**. [paper](https://proceedings.mlr.press/v202/lee23c.html) [code](https://github.com/bdi-lab/InGram) :star:
 
-##### IJCAI
+- <a name="CEKFA"></a> **(CEKFA)** Yilin Wang, Minghao Hu, Zhen Huang, Dongsheng Li, Wei Luo, Dong Yang, Xicheng Lu. "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". **`IJCAI 2023`**. [paper](https://www.ijcai.org/proceedings/2023/259) [code](https://github.com/wylResearch/CEKFA)
 
-- <a name="CEKFA"></a> **(CEKFA)** Yilin Wang, Minghao Hu, Zhen Huang, Dongsheng Li, Wei Luo, Dong Yang, Xicheng Lu. "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". [paper](https://www.ijcai.org/proceedings/2023/259) [code](https://github.com/wylResearch/CEKFA)
+- <a name="DaeMon"></a> **(DaeMon)** Hao Dong, Zhiyuan Ning, Pengyang Wang, Ziyue Qiao, Pengfei Wang, Yuanchun Zhou, Yanjie Fu. "**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**". **`IJCAI 2023`**. [paper](https://www.ijcai.org/proceedings/2023/232) [code](https://github.com/hhdo/DaeMon)
 
-- <a name="DaeMon"></a> **(DaeMon)** Hao Dong, Zhiyuan Ning, Pengyang Wang, Ziyue Qiao, Pengfei Wang, Yuanchun Zhou, Yanjie Fu. "**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**". [paper](https://www.ijcai.org/proceedings/2023/232) [code](https://github.com/hhdo/DaeMon)
+- <a name="ASKRL"></a> **(ASKRL)** Ziyu Shang, Peng Wang, Yuzhang Liu, Jiajun Liu, Wenjun Ke. "**ASKRL: An Aligned-Spatial Knowledge Representation Learning Framework for Open-World Knowledge Graph**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_6) [code](https://github.com/seukgcode/ASKRL)
 
-##### ISWC
+- <a name="CapsKG"></a> **(CapsKG)** Janna Omeliyanenko, Albin Zehe, Andreas Hotho, Daniel Schlör. "**CapsKG: Enabling Continual Knowledge Integration in Language Models for Automatic Knowledge Graph Completion**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_33) [code](https://github.com/LSX-UniWue/CapsKG)
 
-- <a name="ASKRL"></a> **(ASKRL)** Ziyu Shang, Peng Wang, Yuzhang Liu, Jiajun Liu, Wenjun Ke. "**ASKRL: An Aligned-Spatial Knowledge Representation Learning Framework for Open-World Knowledge Graph**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_6) [code](https://github.com/seukgcode/ASKRL)
+- <a name="CIDF"></a> **(CIDF)** Lin Ren, Yongbin Liu, Chunping Ouyang. "**Causal Inference-Based Debiasing Framework for Knowledge Graph Completion**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_18) [code](https://github.com/HomuraT/CIDF)
 
-- <a name="CapsKG"></a> **(CapsKG)** Janna Omeliyanenko, Albin Zehe, Andreas Hotho, Daniel Schlör. "**CapsKG: Enabling Continual Knowledge Integration in Language Models for Automatic Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_33) [code](https://github.com/LSX-UniWue/CapsKG)
+- <a name="DeMix"></a> **(DeMix)** Xiangnan Chen, Wen Zhang, Zhen Yao, Mingyang Chen, Siliang Tang. "**Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_14) [code](https://github.com/DeMix2023/Demix)
 
-- <a name="CIDF"></a> **(CIDF)** Lin Ren, Yongbin Liu, Chunping Ouyang. "**Causal Inference-Based Debiasing Framework for Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_18) [code](https://github.com/HomuraT/CIDF)
+- <a name="ERDNS"></a> **(ERDNS)** Naimeng Yao, Qing Liu, Yi Yang, Weihua Li, Quan Bai. "**Entity-Relation Distribution-Aware Negative Sampling for Knowledge Graph Embedding**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_13) [code](https://github.com/for4ever44/ERDNS)
 
-- <a name="DeMix"></a> **(DeMix)** Xiangnan Chen, Wen Zhang, Zhen Yao, Mingyang Chen, Siliang Tang. "**Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_14) [code](https://github.com/DeMix2023/Demix)
+-  Nasim Shirvani-Mahdavi, Farahnaz Akrami, Mohammed Samiul Saeef, Xiao Shi, Chengkai Li. "**Comprehensive Analysis of Freebase and Dataset Creation for Robust Evaluation of Knowledge Graph Link Prediction Models**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_7)
 
-- <a name="ERDNS"></a> **(ERDNS)** Naimeng Yao, Qing Liu, Yi Yang, Weihua Li, Quan Bai. "**Entity-Relation Distribution-Aware Negative Sampling for Knowledge Graph Embedding**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_13) [code](https://github.com/for4ever44/ERDNS)
+- Shixuan Liu, Pouya Ghiasnezhad Omran, Kerry Taylor. "**Data Augmented Knowledge Graph Completion via Pre-trained Language Models**". **`ISWC 2023`**. [paper](https://ceur-ws.org/Vol-3632/ISWC2023_paper_473.pdf)
 
--  Nasim Shirvani-Mahdavi, Farahnaz Akrami, Mohammed Samiul Saeef, Xiao Shi, Chengkai Li. "**Comprehensive Analysis of Freebase and Dataset Creation for Robust Evaluation of Knowledge Graph Link Prediction Models**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_7)
+- <a name="KGE-Welding"></a> **(KGE-Welding)** Zhipeng Tan, Baifan Zhou, Zhuoxun Zheng, Ognjen Savkovic, Ziqi Huang, Irlán Grangel-González, Ahmet Soylu, Evgeny Kharlamov. "**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_25) [code](https://github.com/boschresearch/KGE-Welding)
 
-- Shixuan Liu, Pouya Ghiasnezhad Omran, Kerry Taylor. "**Data Augmented Knowledge Graph Completion via Pre-trained Language Models**". [paper](https://ceur-ws.org/Vol-3632/ISWC2023_paper_473.pdf)
+- <a name="SPA"></a> **(SPA)** Long Jin, Zhen Yao, Mingyang Chen, Huajun Chen, Wen Zhang. "**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_16) [code](https://github.com/zjukg/Comprehensive-Study-over-Relational-Patterns)
 
-- <a name="KGE-Welding"></a> **(KGE-Welding)** Zhipeng Tan, Baifan Zhou, Zhuoxun Zheng, Ognjen Savkovic, Ziqi Huang, Irlán Grangel-González, Ahmet Soylu, Evgeny Kharlamov. "**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_25) [code](https://github.com/boschresearch/KGE-Welding)
+- <a name="Tetra_WSF"></a> **(Tetra_WSF)** Mojtaba Nayyeri, Zihao Wang, Mst. Mahfuja Akter, Mirza Mohtashim Alam, Md. Rashad Al Hasan Rony, Jens Lehmann, Steffen Staab. "**Integrating Knowledge Graph Embeddings and Pre-trained Language Models in Hypercomplex Spaces**". **`ISWC 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_21) :star:
 
-- <a name="SPA"></a> **(SPA)** Long Jin, Zhen Yao, Mingyang Chen, Huajun Chen, Wen Zhang. "**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_16) [code](https://github.com/zjukg/Comprehensive-Study-over-Relational-Patterns)
+- <a name="AdaProp"></a> **(AdaProp)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Xiaowen Chu, Bo Han. "**AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning**". **`KDD 2023`**. [paper](https://dl.acm.org/doi/10.1145/3580305.3599404) [code](https://github.com/LARS-research/AdaProp) :star:
 
-- <a name="Tetra_WSF"></a> **(Tetra_WSF)** Mojtaba Nayyeri, Zihao Wang, Mst. Mahfuja Akter, Mirza Mohtashim Alam, Md. Rashad Al Hasan Rony, Jens Lehmann, Steffen Staab. "**Integrating Knowledge Graph Embeddings and Pre-trained Language Models in Hypercomplex Spaces**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_21) :star:
+- <a name="Flow-MV"></a> **(Flow-MV)** Shichao Pei, Ziyi Kou, Qiannan Zhang, Xiangliang Zhang. "**Few-shot Low-resource Knowledge Graph Completion with Multi-view Task Representation Generation**". **`KDD 2023`**. [paper](https://dl.acm.org/doi/10.1145/3580305.3599350)
 
-##### KDD
+- <a name="MuKGE"></a> **(MuKGE)** Zequn Sun, Jiacheng Huang, Jinghao Lin, Xiaozhou Xu, Qijin Chen, Wei Hu. "**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**". **`KDD 2023`**. [paper](https://dl.acm.org/doi/10.1145/3580305.3599397) [code](https://github.com/nju-websoft/MuKGE)
 
-- <a name="AdaProp"></a> **(AdaProp)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Xiaowen Chu, Bo Han. "**AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3580305.3599404) [code](https://github.com/LARS-research/AdaProp) :star:
+- <a name="RAKGE"></a> **(RAKGE)** Gayeong Kim, Sookyung Kim, Ko Keun Kim, Suchan Park, Heesoo Jung, Hogun Park. "**Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning**". **`KDD 2023`**. [paper](https://dl.acm.org/doi/10.1145/3580305.3599338) [code](https://github.com/learndatalab/RAKGE)
 
-- <a name="Flow-MV"></a> **(Flow-MV)** Shichao Pei, Ziyi Kou, Qiannan Zhang, Xiangliang Zhang. "**Few-shot Low-resource Knowledge Graph Completion with Multi-view Task Representation Generation**". [paper](https://dl.acm.org/doi/10.1145/3580305.3599350)
+-  <a name="LogInfer"></a> **(LogInfer)** Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev. "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". **`KR 2023`**. [paper](https://proceedings.kr.org/2023/45/) [code](https://github.com/shuwen-liu-ox/LogInfer)
 
-- <a name="MuKGE"></a> **(MuKGE)** Zequn Sun, Jiacheng Huang, Jinghao Lin, Xiaozhou Xu, Qijin Chen, Wei Hu. "**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**". [paper](https://dl.acm.org/doi/10.1145/3580305.3599397) [code](https://github.com/nju-websoft/MuKGE)
+- <a name="HyIE"></a> **(HyIE)** Sensen Zhang, Xun Liang, Hui Tang, Zhenyu Guan. "**Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations**". **`MM 2023`**. [paper](https://dl.acm.org/doi/10.1145/3581783.3613446)
 
-- <a name="RAKGE"></a> **(RAKGE)** Gayeong Kim, Sookyung Kim, Ko Keun Kim, Suchan Park, Heesoo Jung, Hogun Park. "**Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3580305.3599338) [code](https://github.com/learndatalab/RAKGE)
+- <a name="ANet"></a> **(ANet)** Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal A. C. Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang. "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". **`NeurIPS 2023`**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html) :star:
 
-##### KR
+- <a name="DiffLogic"></a> **(DiffLogic)** Shengyuan Chen, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun. "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". **`NeurIPS 2023`**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
 
--  <a name="LogInfer"></a> **(LogInfer)** Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev. "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper](https://proceedings.kr.org/2023/45/) [code](https://github.com/shuwen-liu-ox/LogInfer)
+- <a name="GeKCs"></a> **(GeKCs)** Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari. "**How to Turn Your Knowledge Graph Embeddings into Generative Models**". **`NeurIPS 2023`**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/f4b768188be63b8d2680a46934fd295a-Abstract-Conference.html) [code](https://github.com/april-tools/gekcs)
 
-##### MM
+- <a name="TE-rules"></a> **(TE-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion**". **`NeurIPS 2023`**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/544242770e8333875325d013328b2079-Abstract-Conference.html) [code](https://github.com/qikunxun/LSTK)
 
-- <a name="HyIE"></a> **(HyIE)** Sensen Zhang, Xun Liang, Hui Tang, Zhenyu Guan. "**Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations**". [paper](https://dl.acm.org/doi/10.1145/3581783.3613446)
+- <a name="TFLEX"></a> **(TFLEX)** Xueyuan Lin, Haihong E, Chengjin Xu, Gengxian Zhou, Haoran Luo, Tianyi Hu, Fenglong Su, Ningyuan Li, Mingzhi Sun. "**TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**". **`NeurIPS 2023`**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/e71a42c64851834013e2658b69d7fe93-Abstract-Conference.html) [code](https://github.com/LinXueyuanStdio/TFLEX)
 
-##### NeurIPS
+- <a name="MixER"></a> **(MixER)** Thanh Le, An Pham, Tho Chung, Truong Nguyen, Tuan Nguyen, Bac Le. "**MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction**". **`PAKDD 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_2)
 
-- <a name="ANet"></a> **(ANet)** Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal A. C. Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang. "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html) :star:
+- <a name="RANA"></a> **(RANA)** Qiao Qiao, Yuepei Li, Kang Zhou, Qi Li. "**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**". **`PAKDD 2023`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_8)
 
-- <a name="DiffLogic"></a> **(DiffLogic)** Shengyuan Chen, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun. "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
+- <a name="ConKGC"></a> **(ConKGC)** Bin Shang, Yinliang Zhao, Di Wang, Jun Liu. "**Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591756)
 
-- <a name="GeKCs"></a> **(GeKCs)** Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari. "**How to Turn Your Knowledge Graph Embeddings into Generative Models**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/f4b768188be63b8d2680a46934fd295a-Abstract-Conference.html) [code](https://github.com/april-tools/gekcs)
+- <a name="DREAM"></a> **(DREAM)** Shangfei Zheng, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Wei Chen, Lei Zhao. "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591671) :star:
 
-- <a name="TE-rules"></a> **(TE-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/544242770e8333875325d013328b2079-Abstract-Conference.html) [code](https://github.com/qikunxun/LSTK)
+- <a name="HTENS"></a> **(HTENS)** Zhenzhou Lin, Zishuo Zhao, Jingyou Xie, Ying Shen. "**Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591996)
 
-- <a name="TFLEX"></a> **(TFLEX)** Xueyuan Lin, Haihong E, Chengjin Xu, Gengxian Zhou, Haoran Luo, Tianyi Hu, Fenglong Su, Ningyuan Li, Mingzhi Sun. "**TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/e71a42c64851834013e2658b69d7fe93-Abstract-Conference.html) [code](https://github.com/LinXueyuanStdio/TFLEX)
+- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** Wen Zhang, Zhen Yao, Mingyang Chen, Zhiwei Huang, Huajun Chen. "**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591809) [code](https://github.com/zjukg/NeuralKG-ind)
 
-##### PAKDD
+- <a name="NP-FKGC"></a> **(NP-FKGC)** Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan:. "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591743) [code](https://github.com/RManLuo/NP-FKGC) :star::star::star:
 
-- <a name="MixER"></a> **(MixER)** Thanh Le, An Pham, Tho Chung, Truong Nguyen, Tuan Nguyen, Bac Le. "**MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_2)
+- <a name="ReSKGC"></a> **(ReSKGC)** Donghan Yu, Yiming Yang. "**Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3592052)
 
-- <a name="RANA"></a> **(RANA)** Qiao Qiao, Yuepei Li, Kang Zhou, Qi Li. "**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_8)
+- <a name="RPC"></a> **(RPC)** 	Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu. "**Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591711) :star::star::star::star:
 
-##### SIGIR
+- <a name="StreamE"></a> **(StreamE)** Jiasheng Zhang, Jie Shao, Bin Cui. "**StreamE: Lightweight Updates of Representations for Temporal Knowledge Graphs in Streaming Scenarios**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591772) [code](https://github.com/zjs123/StreamE)
 
-- <a name="ConKGC"></a> **(ConKGC)** Bin Shang, Yinliang Zhao, Di Wang, Jun Liu. "**Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591756)
+- <a name="WeightE"></a> **(WeightE)** Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang, Zhulin An, Fei Wang, Yongjun Xu. "**Weighted Knowledge Graph Embedding**". **`SIGIR 2023`**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591784)
 
-- <a name="DREAM"></a> **(DREAM)** Shangfei Zheng, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Wei Chen, Lei Zhao. "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591671) :star:
+- <a name="DP-Flames"></a> **(DP-Flames)** Yuke Hu, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin. "**Qantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583450)
 
-- <a name="HTENS"></a> **(HTENS)** Zhenzhou Lin, Zishuo Zhao, Jingyou Xie, Ying Shen. "**Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591996)
+- <a name="FedLU"></a> **(FedLU)** Xiangrong Zhu, Guangyao Li, Wei Hu. "**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583305) [code](https://github.com/nju-websoft/FedLU) :star::star::star:
 
-- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** Wen Zhang, Zhen Yao, Mingyang Chen, Zhiwei Huang, Huajun Chen. "**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591809) [code](https://github.com/zjukg/NeuralKG-ind)
+- <a name="HGLS"></a> **(HGLS)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583242) [code](https://github.com/CRIPAC-DIG/HGLS) :star::star:
 
-- <a name="NP-FKGC"></a> **(NP-FKGC)** Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan:. "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591743) [code](https://github.com/RManLuo/NP-FKGC) :star::star::star:
+- <a name="HSAE"></a> **(HSAE)** Xin Ren, Luyi Bai, Qianwen Xiao, Xiangxi Meng. "**Hierarchical Self-Atention Embedding for Temporal Knowledge Graph Completion**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583397)
 
-- <a name="ReSKGC"></a> **(ReSKGC)** Donghan Yu, Yiming Yang. "**Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3539618.3592052)
+- <a name="KGCF"></a> **(KGCF)** Heng Chang, Jie Cai, Jia Li. "**Knowledge Graph Completion with Counterfactual Augmentation**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583401) :star:
 
-- <a name="RPC"></a> **(RPC)** 	Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu. "**Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591711) :star::star::star::star:
+- <a name="KG-Mixup"></a> **(KG-Mixup)** Harry Shomer, Wei Jin, Wentao Wang, Jiliang Tang. "**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583544) [code](https://github.com/HarryShomer/KG-Mixup) :star::star::star:
 
-- <a name="StreamE"></a> **(StreamE)** Jiasheng Zhang, Jie Shao, Bin Cui. "**StreamE: Lightweight Updates of Representations for Temporal Knowledge Graphs in Streaming Scenarios**". [paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591772) [code](https://github.com/zjs123/StreamE)
+- <a name="KP"></a> **(KP)** Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Johannes Hoffart, Manish Singh, Toyotaro Suzumura. "**Can Persistent Homology provide an eficient alternative for Evaluation of Knowledge Graph Completion Methods**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583308)
 
-- <a name="WeightE"></a> **(WeightE)** Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang, Zhulin An, Fei Wang, Yongjun Xu. "**Weighted Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591784)
+- <a name="KRACL"></a> **(KRACL)** Zhaoxuan Tan, Zilong Chen, Shangbin Feng, Qingyue Zhang, Qinghua Zheng, Jundong Li, Minnan Luo. "**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583412) [code](https://github.com/TamSiuhin/KRACL) :star::star:
 
-##### WWW
+- <a name="MASS"></a> **(MASS)** Xiaoyu You, Beina Sheng, Daizong Ding, Mi Zhang, Xudong Pan, Min Yang, Fuli Feng. "**MaSS: Model-agnostic, Semantic and Stealthy Data Poisoning Atack on Knowledge Graph Embedding**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583203)
 
-- <a name="DP-Flames"></a> **(DP-Flames)** Yuke Hu, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin. "**Qantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583450)
+- <a name="MSeaKG"></a> **(MSeaKG)** Shimin Di, Lei Chen. "**Message Function Search for Knowledge Graph Embedding**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583546) [code](https://github.com/account-for-anonymous-code/MSeaKG)
 
-- <a name="FedLU"></a> **(FedLU)** Xiangrong Zhu, Guangyao Li, Wei Hu. "**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583305) [code](https://github.com/nju-websoft/FedLU) :star::star::star:
-
-- <a name="HGLS"></a> **(HGLS)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583242) [code](https://github.com/CRIPAC-DIG/HGLS) :star::star:
-
-- <a name="HSAE"></a> **(HSAE)** Xin Ren, Luyi Bai, Qianwen Xiao, Xiangxi Meng. "**Hierarchical Self-Atention Embedding for Temporal Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583397)
-
-- <a name="KGCF"></a> **(KGCF)** Heng Chang, Jie Cai, Jia Li. "**Knowledge Graph Completion with Counterfactual Augmentation**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583401) :star:
-
-- <a name="KG-Mixup"></a> **(KG-Mixup)** Harry Shomer, Wei Jin, Wentao Wang, Jiliang Tang. "**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583544) [code](https://github.com/HarryShomer/KG-Mixup) :star::star::star:
-
-- <a name="KP"></a> **(KP)** Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Johannes Hoffart, Manish Singh, Toyotaro Suzumura. "**Can Persistent Homology provide an eficient alternative for Evaluation of Knowledge Graph Completion Methods**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583308)
-
-- <a name="KRACL"></a> **(KRACL)** Zhaoxuan Tan, Zilong Chen, Shangbin Feng, Qingyue Zhang, Qinghua Zheng, Jundong Li, Minnan Luo. "**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583412) [code](https://github.com/TamSiuhin/KRACL) :star::star:
-
-- <a name="MASS"></a> **(MASS)** Xiaoyu You, Beina Sheng, Daizong Ding, Mi Zhang, Xudong Pan, Min Yang, Fuli Feng. "**MaSS: Model-agnostic, Semantic and Stealthy Data Poisoning Atack on Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583203)
-
-- <a name="MSeaKG"></a> **(MSeaKG)** Shimin Di, Lei Chen. "**Message Function Search for Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583546) [code](https://github.com/account-for-anonymous-code/MSeaKG)
-
-- <a name="SEPA"></a> **(SEPA)** Cosimo Gregucci, Mojtaba Nayyeri, Daniel Hernández, Steffen Staab. "**Link Prediction with Atention Applied on Multiple Knowledge Graph Embedding Models**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583358) :star:
-
-
-##### AAAI
-
-- <a name="AnKGE"></a> **(AnKGE)** Zhen Yao, Wen Zhang, Mingyang Chen, Yufeng Huang, Yi Yang, Huajun Chen. "**Analogical Inference Enhanced Knowledge Graph Embedding**". **AAAI 2023**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25605) [code](https://github.com/zjukg/AnKGE)
-
-- <a name="CENET"></a> **(CENET)** Yi Xu, Junjie Ou, Hui Xu, Luoyi Fu. "**Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**". **AAAI 2023**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25601) [code](https://github.com/xyjigsaw/CENET)
-
-- <a name="LKGE"></a> **(LKGE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**". **AAAI 2023**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539) [code](https://github.com/nju-websoft/LKGE) 
-
-##### ACL
-
-- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.384/) [code](https://github.com/hughxiouge/CompoundE)
-
-- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.591/) [code](https://github.com/yunchengwang/GreenKGC)
-
-- <a name="L2TKG"></a> **(L2TKG)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Latent Relations for Temporal Knowledge Graph Reasoning**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.705/)
-
-##### ESWC
-
-- <a name="LMKBC"></a> **(LMKBC)** Blerta Veseli, Sneha Singhania, Simon Razniewski, Gerhard Weikum. "**Evaluating Language Models for Knowledge Base Completion**". **ESWC 2023**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_14)
-
-##### ICDE
-
-- <a name="MMKGR"></a> **(MMKGR)** Shangfei Zheng, Weiqing Wang, Jianfeng Qu, Hongzhi Yin, Wei Chen, Lei Zhao. "**MMKGR: Multi-hop Multi-modal Knowledge Graph Reasoning**". **ICDE 2023**. [paper](https://ieeexplore.ieee.org/document/10184753)
-
-- <a name="RMPI"></a> **(RMPI)** Yuxia Geng, Jiaoyan Chen, Jeff Z. Pan, Mingyang Chen, Song Jiang, Wen Zhang, Huajun Chen. "**Relational Message Passing for Fully Inductive Knowledge Graph Completion**". **ICDE 2023**. [paper](https://ieeexplore.ieee.org/document/10184697) [code](https://github.com/zjukg/RMPI)
-
-##### ICLR
-
-- <a name="ExpressivE"></a> **(ExpressivE)** Aleksandar Pavlovic, Emanuel Sallinger. "**ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion**". **ICLR 2023**. [paper](https://openreview.net/forum?id=xkev3_np08z)
-
-- <a name="HiRe"></a> **(HiRe)** Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo. "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". **ICLR 2023**. [paper](https://openreview.net/forum?id=zlwBI2gQL3K)
-
-- <a name="MarT"></a> **(MarT)** Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen. "**Multimodal Analogical Reasoning over Knowledge Graphs**". **ICLR 2023**. [paper](https://openreview.net/forum?id=NRHajbzg8y0P) [code](https://github.com/zjunlp/MKG_Analogy)
-
-- <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". **ICLR 2023**. [paper](https://openreview.net/forum?id=F8VKQyDgRVj) [code](https://github.com/vivian1993/NCRL)
-
-##### ICML
-
-- <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". **ICML 2023**. [paper](https://proceedings.mlr.press/v202/lee23c.html) [code](https://github.com/bdi-lab/InGram)
-
-##### KDD
-
-- <a name="AdaProp"></a> **(AdaProp)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Xiaowen Chu, Bo Han. "**AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning**". **KDD 2023**. [paper](https://dl.acm.org/doi/10.1145/3580305.3599404) [code](https://github.com/LARS-research/AdaProp)
-
-##### NeurIPS
-
-- <a name="ANet"></a> **(ANet)** Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal A. C. Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang. "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". **NeurIPS 2023**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html)
-
-- <a name="DiffLogic"></a> **(DiffLogic)** Shengyuan Chen, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun. "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". **NeurIPS 2023**. [paper](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
-
-##### SIGIR
-
-- <a name="DREAM"></a> **(DREAM)** Shangfei Zheng, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Wei Chen, Lei Zhao. "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". **SIGIR 2023**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591671)
-
-- <a name="NP-FKGC"></a> **(NP-FKGC)** Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan:. "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". **SIGIR 2023**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591743) [code](https://github.com/RManLuo/NP-FKGC)
-
-- <a name="RPC"></a> **(RPC)** 	Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu. "**Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning**". **SIGIR 2023**. [paper](https://dl.acm.org/doi/10.1145/3539618.3591711)
-
-##### WWW
-
-- <a name="FedLU"></a> **(FedLU)** Xiangrong Zhu, Guangyao Li, Wei Hu. "**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**". **WWW 2023**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583305) [code](https://github.com/nju-websoft/FedLU)
-
-- <a name="HGLS"></a> **(HGLS)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning**". **WWW 2023**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583242) [code](https://github.com/CRIPAC-DIG/HGLS)
-
-- <a name="KGCF"></a> **(KGCF)** Heng Chang, Jie Cai, Jia Li. "**Knowledge Graph Completion with Counterfactual Augmentation**". **WWW 2023**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583401)
-
-- <a name="KG-Mixup"></a> **(KG-Mixup)** Harry Shomer, Wei Jin, Wentao Wang, Jiliang Tang. "**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**". **WWW 2023**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583544) [code](https://github.com/HarryShomer/KG-Mixup)
-
-- <a name="KRACL"></a> **(KRACL)** Zhaoxuan Tan, Zilong Chen, Shangbin Feng, Qingyue Zhang, Qinghua Zheng, Jundong Li, Minnan Luo. "**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**". **WWW 2023**. [paper](https://dl.acm.org/doi/10.1145/3543507.3583412) [code](https://github.com/TamSiuhin/KRACL)
-
-- <a name="SEPA"></a> **(SEPA)** Cosimo Gregucci, Mojtaba Nayyeri, Daniel Hernández, Steffen Staab. "**Link Prediction with Atention Applied on Multiple Knowledge Graph Embedding Models**". **WWW 2023**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583358)
+- <a name="SEPA"></a> **(SEPA)** Cosimo Gregucci, Mojtaba Nayyeri, Daniel Hernández, Steffen Staab. "**Link Prediction with Atention Applied on Multiple Knowledge Graph Embedding Models**". **`WWW 2023`**. [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583358) :star:
 
 ### 2022
 
