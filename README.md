@@ -119,6 +119,16 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 
 - <a name="TEGS"></a> **(TEGS)** Zhifei Li, Yue Jian, Zengcan Xue, Yumin Zheng, Miao Zhang, Yan Zhang, Xiaoju Hou, Xiaoguang Wang. "**Text-enhanced knowledge graph representation learning with local structure**". **`Information Processing and Management 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001560?via%3Dihub)
 
+- <a name="Ae2KGR"></a> **(Ae2KGR)** Bin Shang, Yinliang Zhao, Yifan Liu, Chenxin Wang. "**Attention-based exploitation and exploration strategy for multi-hop knowledge graph reasoning**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523013725?via%3Dihub)
+
+- <a name="CKBRLM"></a> **(CKBRLM)** Weiyan Zhang, Chuang Chen, Tao Chen, Jingping Liu, Qi Ye, Tong Ruan. "**A multi-view representation learning framework for commonsense knowledge bases**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524006170?via%3Dihub)
+
+- <a name="CoPE"></a> **(CoPE)** Adnan Zeb, Summaya Saif, Junde Chen, James Jianqiao Yu, Qingshan Jiang, Defu Zhang. "**CoPE: Composition-based Poincaré embeddings for link prediction in knowledge graphs**". **`Information Sciences 2024`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001105?via%3Dihub)
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
 - <a name=""></a> **()** . "****". [paper]()
 
 - <a name=""></a> **()** . "****". [paper]()
@@ -128,6 +138,67 @@ on a multi-policy network**". **`Applied Intelligence 2024`**. [paper](https://l
 - <a name=""></a> **()** . "****". [paper]()
 
 - <a name=""></a> **()** . "****". [paper]() 
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
 
 ##### Information Sciences
 
