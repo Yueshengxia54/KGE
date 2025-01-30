@@ -268,41 +268,68 @@ Algebras**". **`ECAI 2024`**. [paper](https://ebooks.iospress.nl/doi/10.3233/FAI
 
 - <a name="TLmod"></a> **(TLmod)** Luyi Bai, Wenting Yu, Die Chai, Wenjun Zhao, Mingzhuo Chen. "**Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules**". **`Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013871?via%3Dihub)
 
-##### Knowledge-Based Systems
+- Oliver Lloyd, Yi Liu, Tom R. Gaunt. "**Assessing the efects of hyperparameters on knowledge graph embedding quality**". **`Journal of Big Data 2023`**. [paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00732-5)
 
-- <a name="CorIn"></a> **(CorIn)** Mei Yu, Qianyu Zhang, Jian Yu, Mankun Zhao, Xuewei Li, Di Jin, Ming Yang, Ruiguo Yu. "**Knowledge graph completion using topological correlation and multi-perspective independence**". **Knowledge-Based Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011248?via%3Dihub)
+- <a name="MetaRT"></a> **(MetaRT)** Lin Zhu, Yizong Xing, Luyi Bai, Xiwen Chen. "**Few-shot link prediction with meta-learning for temporal knowledge graphs**". **`Journal of Computational Design and Engineering 2023`**. [paper](https://academic.oup.com/jcde/article/10/2/711/7069330)
 
-- <a name="LoTus"></a> **(LoTus)** Yudai Pan, Jun Liu, Lingling Zhang, Yi Huang. "**Incorporating logic rules with textual representations for interpretable knowledge graph reasoning**". **Knowledge-Based Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005373?via%3Dihub)
+- <a name="Melo"></a> **(Melo)** Ling Wang, Jicang Lu, Yepeng Sun. "**Knowledge graph representation learning model based on meta-information and logical rule enhancements**". **`Journal of King Saud University – Computer and Information Sciences 2023`**. [paper](https://www.sciencedirect.com/science/article/pii/S1319157823000769?via%3Dihub)
 
-- <a name="RLAT"></a> **(RLAT)** Luyi Bai, Die Chai, Lin Zhu. "**RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism**". **Knowledge-Based Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002642?via%3Dihub)
+- <a name="CA-MKGC"></a> **(CA-MKGC)** Weihang Zhang, Ovidiu Serban, Jiahao Sun, Yike Guo. "**Conflict-aware multilingual knowledge graph completion**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705123008201?via%3Dihub)
 
-- <a name="Rotate4D"></a> **(Rotate4D)** Thanh Le, Huy Tran, Bac Le. "**Knowledge graph embedding with the special orthogonal group in quaternion space for link prediction**". **Knowledge-Based Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123001508?via%3Dihub) [code](https://github.com/lnthanhhcmus/Rotate4D)
+- <a name="CorIn"></a> **(CorIn)** Mei Yu, Qianyu Zhang, Jian Yu, Mankun Zhao, Xuewei Li, Di Jin, Ming Yang, Ruiguo Yu. "**Knowledge graph completion using topological correlation and multi-perspective independence**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011248?via%3Dihub)
 
-- <a name="SAttLE"></a> **(SAttLE)** Peyman Baghershahi, Reshad Hosseini, Hadi Moradi. "**Self-attention presents low-dimensional knowledge graph embeddings for link prediction**". **Knowledge-Based Systems 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012205?via%3Dihub) [code](https://github.com/pbaghershahi/SAttLE)
+- <a name="KE-X"></a> **(KE-X)** Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. "**KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gaine**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005221?via%3Dihub)
 
-##### Neurocomputing
+- <a name="LoTus"></a> **(LoTus)** Yudai Pan, Jun Liu, Lingling Zhang, Yi Huang. "**Incorporating logic rules with textual representations for interpretable knowledge graph reasoning**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005373?via%3Dihub)
 
-- <a name="GEnI"></a> **(GEnI)** Elvira Amador-Domínguez, Emilio Serrano, Daniel Manrique. "**GEnI: A framework for the generation of explanations and insights of knowledge graph embedding predictions**". **Neurocomputing 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015053?via%3Dihub)
+- <a name="NS-KRL"></a> **(NS-KRL)** Guihai Chen, Jianshe Wu, Wenyun Luo, Jingyi Ding. "**Constructing negative samples via entity prediction for multi-task knowledge representation learning**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007815?via%3Dihub)
 
-- <a name="HGAT"></a> **(HGAT)** Pengpeng Shao, Jiayi He, Guanjun Li, Dawei Zhang, Jianhua Tao. "**Hierarchical graph attention network for temporal knowledge graph reasoning**". **Neurocomputing 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005131?via%3Dihub)
+- <a name="RLAT"></a> **(RLAT)** Luyi Bai, Die Chai, Lin Zhu. "**RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002642?via%3Dihub) :star:
 
-- <a name="PTKE"></a> **(PTKE)** Ruinan Liu, Guisheng Yin, Zechao Liu, Liguo Zhang. "**PTKE: Translation-based temporal knowledge graph embedding in polar coordinate system**". **Neurocomputing 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122300111X?via%3Dihub)
+- <a name="Rotate4D"></a> **(Rotate4D)** Thanh Le, Huy Tran, Bac Le. "**Knowledge graph embedding with the special orthogonal group in quaternion space for link prediction**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123001508?via%3Dihub) [code](https://github.com/lnthanhhcmus/Rotate4D) :star:
 
-##### Neural Computing and Applications
+- <a name="SAttLE"></a> **(SAttLE)** Peyman Baghershahi, Reshad Hosseini, Hadi Moradi. "**Self-attention presents low-dimensional knowledge graph embeddings for link prediction**". **`Knowledge-Based Systems 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012205?via%3Dihub) [code](https://github.com/pbaghershahi/SAttLE) :star::star::star::star:
 
-- <a name="JointSE"></a> **(JointSE)** Xiao Wei, Yunong Zhang, Hao Wang. "**Joint semantic embedding with structural knowledge and entity description for knowledge representation learning**". **Neural Computing and Applications 2023**. [paper](https://link.springer.com/article/10.1007/s00521-022-07923-w)
+- <a name="CPConvKE"></a> **(CPConvKE)**  Xiaohan Yang, Ning Wang. "**A confidence-aware and path-enhanced convolutional neural network embedding framework on noisy knowledge graph**". **`Neurocomputing 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003843?via%3Dihub)
 
-##### Neural Networks
+- <a name="GEnI"></a> **(GEnI)** Elvira Amador-Domínguez, Emilio Serrano, Daniel Manrique. "**GEnI: A framework for the generation of explanations and insights of knowledge graph embedding predictions**". **`Neurocomputing 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015053?via%3Dihub) :star:
 
-- <a name="TFSC"></a> **(TFSC)** Han Zhang, Luyi Bai. "**Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism**". **Neural Networks 2023**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000552?via%3Dihub)
+- <a name="HGAT"></a> **(HGAT)** Pengpeng Shao, Jiayi He, Guanjun Li, Dawei Zhang, Jianhua Tao. "**Hierarchical graph attention network for temporal knowledge graph reasoning**". **`Neurocomputing 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005131?via%3Dihub)
 
-##### Pattern Recognition Letters
+- <a name="PTKE"></a> **(PTKE)** Ruinan Liu, Guisheng Yin, Zechao Liu, Liguo Zhang. "**PTKE: Translation-based temporal knowledge graph embedding in polar coordinate system**". **`Neurocomputing 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122300111X?via%3Dihub) :star:
 
-- <a name="LCILP"></a> **(LCILP)** Hebatallah A. Mohamed, Diego Pilutti, Stuart James, Alessio Del Bue, Marcello Pelillo, Sebastiano Vascon. "**Locality-aware subgraphs for inductive link prediction in knowledge graphs**". **Pattern Recognition Letters 2023**. [paper](https://www.sciencedirect.com/science/article/pii/S0167865523000314?via%3Dihub) [code](https://github.com/hebatef/LCILP)
+- <a name="TransAM"></a> **(TransAM)** Yi Liang, Shuai Zhao, Bo Cheng, Hao Yang. "**TransAM: Transformer appending matcher for few-shot knowledge graph completion**". **`Neurocomputing 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002965?via%3Dihub) [code](https://github.com/gawainx/TransAM)
 
-##### ACM Transactions on Knowledge Discovery from Data
+- <a name="HADC"></a> **(HADC)**  Bin Shang, Yinliang Zhao, Jun Liu, Yifan Liu, Chenxin Wang. "**A contrastive knowledge graph embedding model with hierarchical attention and dynamic completion**". **`Neural Computing and Applications 2023`**. [paper](https://link.springer.com/article/10.1007/s00521-023-08514-z)
 
-- <a name="McRL"></a> **(McRL)** Jiapu Wang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin. "**Multi-Concept Representation Learning for Knowledge Graph Completion**". **ACM Transactions on Knowledge Discovery from Data 2023**. [paper](https://dl.acm.org/doi/10.1145/3533017)
+- <a name="JointSE"></a> **(JointSE)** Xiao Wei, Yunong Zhang, Hao Wang. "**Joint semantic embedding with structural knowledge and entity description for knowledge representation learning**". **`Neural Computing and Applications 2023`**. [paper](https://link.springer.com/article/10.1007/s00521-022-07923-w)
+
+- <a name="KG-ELECTRA"></a> **(KG-ELECTRA)** Abdallah Tubaishat, Tehseen Zia, Rehana Faiz, Feras Al Obediat, Babar Shah, David Windridge. "**Discriminator-based adversarial networks for knowledge graph completion**". **`Neural Computing and Applications 2023`**. [paper](https://link.springer.com/article/10.1007/s00521-022-07680-w) [code](https://github.com/RehanaFaiz/KG-Electra)
+
+- <a name="RIECN"></a> **(RIECN)** Wei Wang, Xiaoxuan Shen, Huanyu Zhang, Zhifei Li, Baolin Yi. "**RIECN: learning relation-based interactive embedding convolutional network for knowledge graph**". **`Neural Computing and Applications 2023`**. [paper](https://link.springer.com/article/10.1007/s00521-022-08109-0) [code](https://github.com/weiwang1992/RIECN)
+
+- <a name="sRESCAL"></a> **(sRESCAL)** Unai Zulaika, Aitor Almeida, Diego López-de-Ipiña. "**Regularized online tensor factorization for sparse knowledge graph embeddings**". **`Neural Computing and Applications 2023`**. [paper](https://link.springer.com/article/10.1007/s00521-022-07796-z)
+
+- <a name="InforMix-FKGC"></a> **(InforMix-FKGC)**  Qianyu Li, Jiale Yao, Xiaoli Tang, Han Yu, Siyu Jiang, Haizhi Yang, Hengjie Song. "**Capsule neural tensor networks with multi-aspect information for Few-shot Knowledge Graph Completion**". **`Neural Networkss 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002277?via%3Dihub)
+
+- <a name="TFSC"></a> **(TFSC)** Han Zhang, Luyi Bai. "**Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism**". **`Neural Networkss 2023`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000552?via%3Dihub) :star:
+
+- <a name="LCILP"></a> **(LCILP)** Hebatallah A. Mohamed, Diego Pilutti, Stuart James, Alessio Del Bue, Marcello Pelillo, Sebastiano Vascon. "**Locality-aware subgraphs for inductive link prediction in knowledge graphs**". **`Pattern Recognition Letters 2023`**. [paper](https://www.sciencedirect.com/science/article/pii/S0167865523000314?via%3Dihub) [code](https://github.com/hebatef/LCILP)
+
+- <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". **`IEEE Robotics and Automation Letters 2023`**. [paper](https://ieeexplore.ieee.org/document/10103578)
+
+- <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". **`IEEE/ACM Transactions on Audio, Speech and Language Processing 2023`**. [paper](https://ieeexplore.ieee.org/document/10190095)
+
+- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". **`IEEE/ACM Transactions on Audio, Speech and Language Processing 2023`**. [paper](https://ieeexplore.ieee.org/document/9966731)
+
+- <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". **`IEEE/ACM Transactions on Audio, Speech and Language Processing 2023`**. [paper](https://ieeexplore.ieee.org/document/10141863)
+
+- <a name="DuCape"></a> **(DuCape)** Sensen Zhang, Xun Liang, Hui Tang, Xiangping Zheng, Alex X. Zhang, Yuefeng Ma. "**DuCape: Dual Quaternion and Capsule Network–Based Temporal Knowledge Graph Embedding**". **`ACM Transactions on Knowledge Discovery from Data 2023`**. [paper](https://dl.acm.org/doi/10.1145/3589644)
+
+- <a name="McRL"></a> **(McRL)** Jiapu Wang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin. "**Multi-Concept Representation Learning for Knowledge Graph Completion**". **`ACM Transactions on Knowledge Discovery from Data 2023`**. [paper](https://dl.acm.org/doi/10.1145/3533017) :star::star:
+
+
+
 
 ##### IEEE Transactions on Knowledge and Data Engineering
 
